@@ -1,0 +1,2599 @@
+Manifest-Version: 1.0
+Built-By: Signflinger
+Created-By: Android Gradle 4.2.1
+
+Name: AndroidManifest.xml
+SHA1-Digest: RS5RXcf3vk7cqR8FIv/5WmdxF/w=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA1-Digest: Srb6/hCzitHMI/s9JDXhcBhY0IE=
+
+Name: assets/Game/0.1at
+SHA1-Digest: 3jiNvkqyT2ebcbiasLwmgH4H6hM=
+
+Name: assets/Game/0.1ce
+SHA1-Digest: LUvLQ6pGI3CiU1nnYSYR672Djbg=
+
+Name: assets/Game/0.1fo
+SHA1-Digest: tgUiZiFc8wggqLhiJnf/WP6aTiU=
+
+Name: assets/Game/0.1in
+SHA1-Digest: XTKYvFz3UoYzbpF9Ou0MGBGF2gs=
+
+Name: assets/Game/0.1it
+SHA1-Digest: GfSqx/Pt+w2OzIj4lVTWSlMaX90=
+
+Name: assets/Game/0.1so
+SHA1-Digest: 5HfAAxUytMM3nXIKD8+R/G0CRbM=
+
+Name: assets/Game/0.1sp
+SHA1-Digest: ZcgrM6h+mFLYQ4MKWErZ5P/KQTw=
+
+Name: assets/Game/0.1ts
+SHA1-Digest: +z0NDLrUyIjbDGcrr+3tnQWIc6s=
+
+Name: assets/Game/1.1at
+SHA1-Digest: CVZH6a5cmH/cFRNTNJ2HgipN3Ig=
+
+Name: assets/Game/1.1ce
+SHA1-Digest: psZjEpNZaqMEdA/sTApB7eKAe6w=
+
+Name: assets/Game/1.1fo
+SHA1-Digest: ZoMbMv4o2vapXi4paAZkqAbIyI4=
+
+Name: assets/Game/1.1in
+SHA1-Digest: FQibbi5CujzE2K1Awq/jigOzGeg=
+
+Name: assets/Game/1.1it
+SHA1-Digest: zu2ijylHs2dBTjkzZDnm/PbfcaE=
+
+Name: assets/Game/1.1so
+SHA1-Digest: bhV/432LtWZYeP7jiS4cdbiQvQs=
+
+Name: assets/Game/1.1sp
+SHA1-Digest: tyy3YfAT/ToTGqEDpegvwvDy4VU=
+
+Name: assets/Game/1.1ts
+SHA1-Digest: zou4v4nSIOLhp7xpGnFhdz6rCFI=
+
+Name: assets/Game/10.1at
+SHA1-Digest: hB6BGUUErF2GcPzzLxstaVujioY=
+
+Name: assets/Game/10.1so
+SHA1-Digest: VDf5HYBhYINE3yHcvbm+Mm6EGt0=
+
+Name: assets/Game/10.1sp
+SHA1-Digest: tTZEyZ6vMWs59LRF8l1xGMLW2ZY=
+
+Name: assets/Game/10.1ts
+SHA1-Digest: 9tKtUdNT9uiRRTjm09vESaeP3m4=
+
+Name: assets/Game/100.1so
+SHA1-Digest: nQwFCD3Vf5w+5OhRbGZM+ui8xvE=
+
+Name: assets/Game/100.1sp
+SHA1-Digest: 71sTEF8WC7jtu7R1TfRCqdFsEtU=
+
+Name: assets/Game/101.1so
+SHA1-Digest: CpT7YYV/+9wm2OnE8ArBK8ElodI=
+
+Name: assets/Game/101.1sp
+SHA1-Digest: bYDovYVTHglHvJbBydnxG8KWPCo=
+
+Name: assets/Game/102.1so
+SHA1-Digest: TeFx2rAjxi6IBp7HuukDvsqsUB4=
+
+Name: assets/Game/102.1sp
+SHA1-Digest: umTfcAXWaKIeVelpl1bwMU5K4oU=
+
+Name: assets/Game/103.1so
+SHA1-Digest: NHg7ylV6UqvxRY/j+qbEHskJJf4=
+
+Name: assets/Game/103.1sp
+SHA1-Digest: vGWJhgEPBKJCsMGv49F5+GNfRYE=
+
+Name: assets/Game/104.1so
+SHA1-Digest: yKUxAHSqPArzkBOZQO9MFGOJY3c=
+
+Name: assets/Game/104.1sp
+SHA1-Digest: CtN8urnrv6gC0wkZVZWPwkfjZEc=
+
+Name: assets/Game/105.1so
+SHA1-Digest: a8viptYSQ+Fsx/Y9BeLwmaxq6fM=
+
+Name: assets/Game/105.1sp
+SHA1-Digest: PqzGb+HbmcA11t9CBVsgXp4PDdI=
+
+Name: assets/Game/106.1so
+SHA1-Digest: t0E32nzL5QL/Em1/O3d1q3g2v08=
+
+Name: assets/Game/106.1sp
+SHA1-Digest: YQ/kv7hH8vM3b8m6uPSS6ONXrIk=
+
+Name: assets/Game/107.1so
+SHA1-Digest: wcf3Q9fdBSMTbnL7KdjUqD2QbyQ=
+
+Name: assets/Game/107.1sp
+SHA1-Digest: MsIwjhC/zEYIONnoGnaDnsHj9Z0=
+
+Name: assets/Game/108.1so
+SHA1-Digest: ZGy8NOs/4fcHaE4l7458BKxjkQc=
+
+Name: assets/Game/108.1sp
+SHA1-Digest: W3tEAU1blFs/p4bsV/n8LVYc3WU=
+
+Name: assets/Game/109.1so
+SHA1-Digest: V+nhF3Ov+AusypqQGY6rIs4ivIw=
+
+Name: assets/Game/109.1sp
+SHA1-Digest: UvFKfTxCjMIUmKbez1yp0hCKxfU=
+
+Name: assets/Game/11.1at
+SHA1-Digest: zTA1ANWCpl4SVkybu8tznl1JD9I=
+
+Name: assets/Game/11.1so
+SHA1-Digest: qXfrpX4enl0HxgiXprZovjS58qM=
+
+Name: assets/Game/11.1sp
+SHA1-Digest: PMKImQF4MiVNa2T3IehBIr7x5hA=
+
+Name: assets/Game/11.1ts
+SHA1-Digest: 0FbclkOeJPcrNFsCFMoKLZo3MoY=
+
+Name: assets/Game/110.1so
+SHA1-Digest: fePrbX3n+3R6Jlfi5TmEvyBmG7U=
+
+Name: assets/Game/110.1sp
+SHA1-Digest: wLcKqhTr2vlufkM+ovv/o4rx6bk=
+
+Name: assets/Game/111.1so
+SHA1-Digest: cvq5gubpNy8vXopXhi6IgAqnBlY=
+
+Name: assets/Game/111.1sp
+SHA1-Digest: FCvdNxSPObKdxoe+I0+OKnUTMQs=
+
+Name: assets/Game/112.1so
+SHA1-Digest: lrQ7DP6honZJ+yiUXaIL5TSwukg=
+
+Name: assets/Game/112.1sp
+SHA1-Digest: S6qldDkKrDu2ORPvVjXoE4cS640=
+
+Name: assets/Game/113.1so
+SHA1-Digest: gOQ4I3I8nfr1xhN5OPN/XZfTRKg=
+
+Name: assets/Game/113.1sp
+SHA1-Digest: 30JufGHvZUUQYQFgMOrBs2J7Q8Y=
+
+Name: assets/Game/114.1so
+SHA1-Digest: T3JmfdKnYX/hfe2qNU8y3i4jlfU=
+
+Name: assets/Game/114.1sp
+SHA1-Digest: rzyYx0PaFrbEV86Ef52YrEAxPk4=
+
+Name: assets/Game/115.1so
+SHA1-Digest: 2HH1OYZKJpmgqsnRQy9Av8HgqD0=
+
+Name: assets/Game/115.1sp
+SHA1-Digest: wdVarDcQv+b1p0bq6Vrm56QHh0Y=
+
+Name: assets/Game/116.1so
+SHA1-Digest: PW3qG+djbKPeO+dToIpshnkKVjY=
+
+Name: assets/Game/116.1sp
+SHA1-Digest: FsD5b68K820slSrEhf5wgieUyOs=
+
+Name: assets/Game/117.1so
+SHA1-Digest: Gii0HKMdbzOvusgyOhZbbtn9Z/A=
+
+Name: assets/Game/117.1sp
+SHA1-Digest: OW+G1KvP6mFbL1/syiA56W07sog=
+
+Name: assets/Game/118.1so
+SHA1-Digest: vN0VgkyhxSUq1cOlXhEwuf4A0NI=
+
+Name: assets/Game/118.1sp
+SHA1-Digest: ahsysbdDWEHb/+JiUn7yuvb8LcA=
+
+Name: assets/Game/119.1so
+SHA1-Digest: Lff8jeRtLCtaaG1x5OEbRkhIDzE=
+
+Name: assets/Game/119.1sp
+SHA1-Digest: Xh9Ixtc7qFWXfqi36PEXmAI5Tsc=
+
+Name: assets/Game/12.1at
+SHA1-Digest: 39cu6T+Ctl0fCaNn8lTFGf+u5IA=
+
+Name: assets/Game/12.1so
+SHA1-Digest: shaXO3pjRzyfB6QEFiPYfWe38m4=
+
+Name: assets/Game/12.1sp
+SHA1-Digest: B/Ui9R3VTchIHPqjxj8k2culB9k=
+
+Name: assets/Game/12.1ts
+SHA1-Digest: 3npJNl7E7YqWd6eQi83r0n7UkJU=
+
+Name: assets/Game/120.1so
+SHA1-Digest: Zps8Ne8NjF02+ChW0iWLdz7SdMc=
+
+Name: assets/Game/120.1sp
+SHA1-Digest: VxwQz137cri93tnON6eGafZPkfw=
+
+Name: assets/Game/121.1so
+SHA1-Digest: 6ydTojQT7+uCmNCx/iI4NRBKj4Q=
+
+Name: assets/Game/121.1sp
+SHA1-Digest: veAH8MYTYb7t1UyiNMbbDWNgfIY=
+
+Name: assets/Game/122.1so
+SHA1-Digest: Ilx2/DPqxDfSbggvQ077Q86llu4=
+
+Name: assets/Game/122.1sp
+SHA1-Digest: O7qPcc1hBx4NPUd97h8nYbQJt+0=
+
+Name: assets/Game/123.1so
+SHA1-Digest: X0ottbGu2YOZSqZTwJmcx03KEKY=
+
+Name: assets/Game/123.1sp
+SHA1-Digest: pU+CZjGt/morDH/5q0wBtTSZdPI=
+
+Name: assets/Game/124.1so
+SHA1-Digest: sC//mob/zUgS0nJd3pMdrKJYBbg=
+
+Name: assets/Game/124.1sp
+SHA1-Digest: ROf7lYHpGQ7ikWHupDSQNiCUy6k=
+
+Name: assets/Game/125.1so
+SHA1-Digest: xuWPvAVMaAARV8Sz9YAZkqp3pf0=
+
+Name: assets/Game/125.1sp
+SHA1-Digest: yJjYZ6UBOIB59GXhb0Xcn5QciJw=
+
+Name: assets/Game/126.1so
+SHA1-Digest: 69mO99dkFn7liB4T0s04OPAVgwg=
+
+Name: assets/Game/126.1sp
+SHA1-Digest: pbhhjVcPndFJKfl1O9cOO+RMNu4=
+
+Name: assets/Game/127.1so
+SHA1-Digest: hRdpCcBpCSYia4lJ7eobhoW+IlI=
+
+Name: assets/Game/127.1sp
+SHA1-Digest: WoclIloO4YMlOSvOWJPYHd99XYo=
+
+Name: assets/Game/128.1so
+SHA1-Digest: Qb3FIotuB1iBdsv13VUSJAi7jPw=
+
+Name: assets/Game/128.1sp
+SHA1-Digest: 8byU4TjIY3w/Sv44LX/vMu0dBl4=
+
+Name: assets/Game/129.1so
+SHA1-Digest: 0XPsnd6Gd+9b3pcV+y8Of3Yp4wE=
+
+Name: assets/Game/13.1at
+SHA1-Digest: DWFicF4XJ2Ij3oBarJ2CDNlo41A=
+
+Name: assets/Game/13.1so
+SHA1-Digest: QEkc0U57Vaachyh+cpRd2lwDQME=
+
+Name: assets/Game/13.1sp
+SHA1-Digest: Se58X5lXzf+PMlj/b56ZYiJhrjc=
+
+Name: assets/Game/13.1ts
+SHA1-Digest: rg+17s5NSzQhio4Rkdno73bZtTw=
+
+Name: assets/Game/130.1so
+SHA1-Digest: ZFwwSZCvspTUlpvlNDjVvrvZFx0=
+
+Name: assets/Game/131.1so
+SHA1-Digest: hiX/CCdrPT+wD8kVKgaP7+F1HaI=
+
+Name: assets/Game/132.1so
+SHA1-Digest: abr94SRYjFGiv+tZ9SZEkTVlaMs=
+
+Name: assets/Game/133.1so
+SHA1-Digest: BhQd8HwyFPrwtujeezCZ6pA8tJ0=
+
+Name: assets/Game/134.1so
+SHA1-Digest: JE6Kthj6LCVhkBLUS2DWXZrX+88=
+
+Name: assets/Game/135.1so
+SHA1-Digest: oLHWiRHaJouGhBKjuyWTBqAzUns=
+
+Name: assets/Game/136.1so
+SHA1-Digest: TNvH3jAEH5dh/V00tQ0iUEAnYc8=
+
+Name: assets/Game/137.1so
+SHA1-Digest: JS8+H3g8/v1fzg1MKQoaH64J5JY=
+
+Name: assets/Game/138.1so
+SHA1-Digest: IrlIZP1lVD7xAzsExhAHwpU368E=
+
+Name: assets/Game/139.1so
+SHA1-Digest: XTfZEfavJltUQPucefU34V1Rvhw=
+
+Name: assets/Game/14.1at
+SHA1-Digest: phgBPDLbD8UGrgT9P0nlaXlBLlk=
+
+Name: assets/Game/14.1so
+SHA1-Digest: hifm41LdiIcJAnK07CBguKQdM6Q=
+
+Name: assets/Game/14.1sp
+SHA1-Digest: ce70aFZeqPJECQoMocoT6s0VC+0=
+
+Name: assets/Game/14.1ts
+SHA1-Digest: xD8F4M/G2wA23ftrAqW2mx1Fvt0=
+
+Name: assets/Game/140.1so
+SHA1-Digest: cfXkUJUuU3CrrWSi5YzaRVYxoEA=
+
+Name: assets/Game/141.1so
+SHA1-Digest: GaMPjawCQ84AWQwWH5+gxsKb8Uw=
+
+Name: assets/Game/142.1so
+SHA1-Digest: 6TsjFAGpnIUg6yTNXrVcwGqqiYw=
+
+Name: assets/Game/143.1so
+SHA1-Digest: T5Dy8Y5pdFySsODxD6Su1Q+8MSE=
+
+Name: assets/Game/144.1so
+SHA1-Digest: 9jHliA/aiIt4NsaY6tXg5D5l5k0=
+
+Name: assets/Game/145.1so
+SHA1-Digest: +e91SpFS5cUzLpBNIBjdkBkmLAk=
+
+Name: assets/Game/146.1so
+SHA1-Digest: bxuz3pnkIiAA9pgckh/VHoDKrRw=
+
+Name: assets/Game/147.1so
+SHA1-Digest: sClGmPqUzn2Eitqbje/vdVOtzio=
+
+Name: assets/Game/148.1so
+SHA1-Digest: jPzS8/hxegJTJHrdKeuPxbXg3Lw=
+
+Name: assets/Game/149.1so
+SHA1-Digest: DDcdiSrlsynfOiJPFzJRrNEdZyQ=
+
+Name: assets/Game/15.1at
+SHA1-Digest: OTxIdDnmFCTfxf1y5ImDWHfnqpY=
+
+Name: assets/Game/15.1so
+SHA1-Digest: /rxMnfDDOinZeVhO3UbGzzVijJA=
+
+Name: assets/Game/15.1sp
+SHA1-Digest: mue1xpglCcJMGEooBaDOaqZkNsY=
+
+Name: assets/Game/150.1so
+SHA1-Digest: +f/BwBUZESOK0Mo/P5YB+sCIRIc=
+
+Name: assets/Game/151.1so
+SHA1-Digest: NZowAN15H37qAvjQUWWL2yE3XTs=
+
+Name: assets/Game/152.1so
+SHA1-Digest: QlY79lAaAQ9dsYI6cSZUhS7xrtI=
+
+Name: assets/Game/153.1so
+SHA1-Digest: wATEj+e7zFVh6mydWpzxFcoFWl4=
+
+Name: assets/Game/154.1so
+SHA1-Digest: /9QxfoEZq98bn+QU8L9BjMoWHUg=
+
+Name: assets/Game/155.1so
+SHA1-Digest: wUvr1HVsMZ5JfSMGpRcLT18ByEc=
+
+Name: assets/Game/156.1so
+SHA1-Digest: aQRvBl0x1rFyBxrO7yWecKooVrA=
+
+Name: assets/Game/157.1so
+SHA1-Digest: ta79AjTJbAEAIGpQUj0o4bQt6qY=
+
+Name: assets/Game/158.1so
+SHA1-Digest: xix8oTaLMhGotpYBxZmgwVeYw98=
+
+Name: assets/Game/159.1so
+SHA1-Digest: /klfeTG5W16PuPQgK48VL7VDiAM=
+
+Name: assets/Game/16.1at
+SHA1-Digest: 29LiK+KOE+iPlFU3aGe0QN9lyCg=
+
+Name: assets/Game/16.1so
+SHA1-Digest: Cqxt04LxMw4BszMCEC1qQoH2q8o=
+
+Name: assets/Game/16.1sp
+SHA1-Digest: 7zPdn2xZjOYgn5hb8siDOlTwQRY=
+
+Name: assets/Game/160.1so
+SHA1-Digest: A8YiIo9QVkYklK6hiRimjKMlnfk=
+
+Name: assets/Game/161.1so
+SHA1-Digest: 6ey2yMdP1oF3+c8BQp6j1v2VlZM=
+
+Name: assets/Game/162.1so
+SHA1-Digest: sohNqnwZE6U13RxgAVtv/Xq9M+Y=
+
+Name: assets/Game/163.1so
+SHA1-Digest: Hi2zHkzIgyJM/zgn7DhqLD1dw6s=
+
+Name: assets/Game/164.1so
+SHA1-Digest: oiMmSbd0ZR49qOdxbQdwur/1ZqA=
+
+Name: assets/Game/165.1so
+SHA1-Digest: IWBUDLQVOzrig8xM4FE3EKkAnCE=
+
+Name: assets/Game/166.1so
+SHA1-Digest: rO9S36XMKaFVFWiNWJMscwdKJ4U=
+
+Name: assets/Game/167.1so
+SHA1-Digest: K2LOBZjmhKLN3c5V+MGRwP82tsg=
+
+Name: assets/Game/168.1so
+SHA1-Digest: 4t2BgdpnBbyfN5GVfoZWGkBXO+4=
+
+Name: assets/Game/169.1so
+SHA1-Digest: 2poCa1xOwMBqa72HTB/5jDz0RGo=
+
+Name: assets/Game/17.1at
+SHA1-Digest: 7uP0gOcO1o+jEHh3UZeUdYGatM0=
+
+Name: assets/Game/17.1so
+SHA1-Digest: NQ66q2PohPnKybTogsbiLL5Fzjc=
+
+Name: assets/Game/17.1sp
+SHA1-Digest: HpCHIPJKwO+v6l0MaBHcNrNnfCE=
+
+Name: assets/Game/170.1so
+SHA1-Digest: ye0Mg8VM4ZTqIgDK9yZWNacmF2s=
+
+Name: assets/Game/171.1so
+SHA1-Digest: qDtmz+fLG4R78mon4iXaOv0vGwM=
+
+Name: assets/Game/172.1so
+SHA1-Digest: WASdJNAcstIbv/c7sx/dvU97CXw=
+
+Name: assets/Game/173.1so
+SHA1-Digest: 7xN3UtqV5KiI2SScHR0RhKzQTuc=
+
+Name: assets/Game/174.1so
+SHA1-Digest: M/dppyQLLypC8cAbCQYVZeq0CJ4=
+
+Name: assets/Game/175.1so
+SHA1-Digest: rDwGlgoLK/sBbl7+FEUsJe04jvo=
+
+Name: assets/Game/176.1so
+SHA1-Digest: ci46DXkXhg+nCggrmKMtnYtRMSk=
+
+Name: assets/Game/177.1so
+SHA1-Digest: ct+bC5P/cqNuA6u6YbfzRAKTkhY=
+
+Name: assets/Game/178.1so
+SHA1-Digest: ttX3ZOg0Pgy6XXC6iFDxBHrpTYU=
+
+Name: assets/Game/179.1so
+SHA1-Digest: KCFX89TKOgdzu65dGkKEt/u6uSk=
+
+Name: assets/Game/18.1at
+SHA1-Digest: qe+gExG6zHE354OfhycdBg7eo9M=
+
+Name: assets/Game/18.1so
+SHA1-Digest: jUy/1JIj1ZbUOGJI4Zxe/LrNtpI=
+
+Name: assets/Game/18.1sp
+SHA1-Digest: /JjlAuP7nP/5Y1dSPY4VMm0SDiQ=
+
+Name: assets/Game/180.1so
+SHA1-Digest: cv0UN9IqDWTLIXW2mZabT14WxaA=
+
+Name: assets/Game/181.1so
+SHA1-Digest: l8nS7dr5Xeob2s2MC1mSa11/ec4=
+
+Name: assets/Game/182.1so
+SHA1-Digest: tJ8tQUKVePyOQuiZGdNZVwcKOEg=
+
+Name: assets/Game/183.1so
+SHA1-Digest: FYyUPCk/YkmGXMBEbwnWRRC2OHA=
+
+Name: assets/Game/184.1so
+SHA1-Digest: Q80UTmNW7ISSdIjFS1Spz4+wWns=
+
+Name: assets/Game/185.1so
+SHA1-Digest: nBvZNj0lE+seWS0tvayuKB4tuiY=
+
+Name: assets/Game/186.1so
+SHA1-Digest: p7FRnvvp9+Dk/J22pEO4/SByhNc=
+
+Name: assets/Game/187.1so
+SHA1-Digest: 4LKNF0BphnLCpqjTW5bOTi/01Fs=
+
+Name: assets/Game/188.1so
+SHA1-Digest: wUMTJ1RnQHwVUQtJ3TFtw+EWtQs=
+
+Name: assets/Game/189.1so
+SHA1-Digest: gaSer972LPU7/ZtkidzFTbmTpDo=
+
+Name: assets/Game/19.1at
+SHA1-Digest: jlJ2T8Xl8kThQDcQgivTQZTVruc=
+
+Name: assets/Game/19.1so
+SHA1-Digest: VTgFGtMIyXivDW6sJJxGnpoO6hw=
+
+Name: assets/Game/19.1sp
+SHA1-Digest: IZkRWdk6wNyakh6DJ1YySJe6YAY=
+
+Name: assets/Game/190.1so
+SHA1-Digest: EkKSweNE8dWpqxdMhvy1jQsoNyw=
+
+Name: assets/Game/191.1so
+SHA1-Digest: Gumlr8G8tmDXPjmGMCFCRFVmpKE=
+
+Name: assets/Game/192.1so
+SHA1-Digest: WQ0AAJzSmy3duLgtDOinvsTX1Bg=
+
+Name: assets/Game/193.1so
+SHA1-Digest: 8rPIv2PPCngSvNw1UmZW+u8kDXs=
+
+Name: assets/Game/194.1so
+SHA1-Digest: 3jGd2SdkvFDe3XAOK6gLrM2Qd+4=
+
+Name: assets/Game/195.1so
+SHA1-Digest: A+3GPEf6NGI5dXfXT5IOqfsLeGI=
+
+Name: assets/Game/196.1so
+SHA1-Digest: CFWE8LhceUPOGbX00YDyJxdt3wQ=
+
+Name: assets/Game/197.1so
+SHA1-Digest: J+sz6WVEH2ymgB5WoOpx/gd/jcQ=
+
+Name: assets/Game/198.1so
+SHA1-Digest: 9W020z7o6wjRm4JAcDDpHnoHTKI=
+
+Name: assets/Game/199.1so
+SHA1-Digest: ornTAXIeBgNCMiiBhPky433UnT4=
+
+Name: assets/Game/2.1at
+SHA1-Digest: uBqXH230g59kMTQ+CuBhQucySaM=
+
+Name: assets/Game/2.1ce
+SHA1-Digest: P8YUZV5NiNojkX1uj80ppF6bnlU=
+
+Name: assets/Game/2.1fo
+SHA1-Digest: UBff9BdGTnn6CyPPV7STc9Whlus=
+
+Name: assets/Game/2.1in
+SHA1-Digest: 9De+70+7pi1Wu41XPK92MGHuYb8=
+
+Name: assets/Game/2.1it
+SHA1-Digest: vH3U/GyCRpH/9bX7oDVJhnKq2hk=
+
+Name: assets/Game/2.1so
+SHA1-Digest: uFjjJI7nyEdCZBhl2L2OsVDHY1s=
+
+Name: assets/Game/2.1sp
+SHA1-Digest: m4Cx8bw+I1NhvTxCJIluBIqucIw=
+
+Name: assets/Game/2.1ts
+SHA1-Digest: yLh3F/hKtNzNFmy+FzGHdnoumTE=
+
+Name: assets/Game/20.1at
+SHA1-Digest: lqlE4iciLopRTeazoLg6T4aXd0k=
+
+Name: assets/Game/20.1so
+SHA1-Digest: 1/9e8Iy9Rfv2ah7sKQvIdUFyZ5w=
+
+Name: assets/Game/20.1sp
+SHA1-Digest: G1fb9sm5Omi7ybowiEeMPv46pn4=
+
+Name: assets/Game/200.1so
+SHA1-Digest: bSvSsdrYkFP03UFI4Bsko8/3kNs=
+
+Name: assets/Game/201.1so
+SHA1-Digest: P4P+cPG7KSSsJj6T3GEeg99k2nE=
+
+Name: assets/Game/202.1so
+SHA1-Digest: ZVKhlOjDA77qmej2z5fKjmPkaQs=
+
+Name: assets/Game/203.1so
+SHA1-Digest: 8HDZYtQt6mV2Dx320PHyJAPCpJM=
+
+Name: assets/Game/204.1so
+SHA1-Digest: i4t2pVgwKwfmg4r2l2xXMS6MPTw=
+
+Name: assets/Game/205.1so
+SHA1-Digest: Gyst2tYvkyQ3Szh/RJcnSeHUhU8=
+
+Name: assets/Game/206.1so
+SHA1-Digest: UNil5REOtZEpIbvLgBdEjyU4fC8=
+
+Name: assets/Game/207.1so
+SHA1-Digest: XolnfeteZuyHJWVIYy5lM7rRhRw=
+
+Name: assets/Game/208.1so
+SHA1-Digest: OCGx5p8TgoSrkGB1ZEWUzU37QkQ=
+
+Name: assets/Game/209.1so
+SHA1-Digest: pShMMskND6YHtRrKN7SxQSIidlU=
+
+Name: assets/Game/21.1at
+SHA1-Digest: rpiRTSTYFGUqCiR6e7gIZtNzPfo=
+
+Name: assets/Game/21.1so
+SHA1-Digest: NWRhPe9r0uuLHlhV2nsrLJWV3vs=
+
+Name: assets/Game/21.1sp
+SHA1-Digest: gAewY7r7H4CbeLxyypW2t6La5gY=
+
+Name: assets/Game/210.1so
+SHA1-Digest: VfjS1kTbONQs6lwR5Yva6o4dHBc=
+
+Name: assets/Game/211.1so
+SHA1-Digest: ZMIlC081q3eP8abvlz/QqAzygV8=
+
+Name: assets/Game/212.1so
+SHA1-Digest: hlLJ1wEeNPQz26w0vFleNbMWL2E=
+
+Name: assets/Game/213.1so
+SHA1-Digest: Yidg5YfDA6b0z18umYEVJ3m1E7U=
+
+Name: assets/Game/214.1so
+SHA1-Digest: LZgNdUPGjpLBGhSUJjZzq/Fh9WM=
+
+Name: assets/Game/215.1so
+SHA1-Digest: T9xhxTOngYMXFVA5QW6/hgWUYl8=
+
+Name: assets/Game/216.1so
+SHA1-Digest: q8E8lfTspXgWUp3d+rEmZhwkHY0=
+
+Name: assets/Game/217.1so
+SHA1-Digest: kkkh2nQib2NrqmBJVtmWiwS7BD0=
+
+Name: assets/Game/218.1so
+SHA1-Digest: LH96AyGNytKajxYErz0K0k7s/bw=
+
+Name: assets/Game/219.1so
+SHA1-Digest: xdwRgbkmIa9udTrZp6ADKHn8U3w=
+
+Name: assets/Game/22.1at
+SHA1-Digest: iWP39IuhsKNqzFPBS0c18DWYZ8A=
+
+Name: assets/Game/22.1so
+SHA1-Digest: 7jXwARjpkFBv9d8rUatJM59CQ9g=
+
+Name: assets/Game/22.1sp
+SHA1-Digest: OuELG7R0lAusd++q76bx490At+Y=
+
+Name: assets/Game/220.1so
+SHA1-Digest: q2JO+NOvtE/DNeu6+RRig2l7tkw=
+
+Name: assets/Game/221.1so
+SHA1-Digest: xKNxj1K/PTWeL62iECrBLKr7Ss4=
+
+Name: assets/Game/222.1so
+SHA1-Digest: n4cIZcJ6PQ+KrWiApczx6vcqVLA=
+
+Name: assets/Game/223.1so
+SHA1-Digest: t2cwTTdfGAagSiwagH9MPbaku5A=
+
+Name: assets/Game/224.1so
+SHA1-Digest: ba7MlEPisQoGAlFAx4nzCXi7QNw=
+
+Name: assets/Game/225.1so
+SHA1-Digest: hDtlg+1C5XyTSmgBlUNutRFG65U=
+
+Name: assets/Game/226.1so
+SHA1-Digest: rvvGG1uQ4TOus1d9pYrzemKxdM0=
+
+Name: assets/Game/227.1so
+SHA1-Digest: mWST+DeC8JYoCWQJwjtS7aG665k=
+
+Name: assets/Game/228.1so
+SHA1-Digest: hzph5+4FgLnCZEepoiz62Tmlthk=
+
+Name: assets/Game/229.1so
+SHA1-Digest: DYDtKTYtOviOMj7cxLX17Ppi3eY=
+
+Name: assets/Game/23.1at
+SHA1-Digest: cRFK6D9ck3LfqzX2/abk0l5jWTg=
+
+Name: assets/Game/23.1so
+SHA1-Digest: u/oyaXI4XSpHZQJoF2tA/BQls+A=
+
+Name: assets/Game/23.1sp
+SHA1-Digest: XUoGTWGqcZ68w2nqu0hgmvliWkA=
+
+Name: assets/Game/230.1so
+SHA1-Digest: BkZdh+xz9TMp2HgPnCJdHHdv4kI=
+
+Name: assets/Game/231.1so
+SHA1-Digest: 4aK69VpxymdXWfAQOmhaRzRa+2Q=
+
+Name: assets/Game/232.1so
+SHA1-Digest: XjgVBFNnMURRounWP7SEQcs+ppA=
+
+Name: assets/Game/233.1so
+SHA1-Digest: oijDH46bgBt4RCqTxX/Uw3f6Qd4=
+
+Name: assets/Game/234.1so
+SHA1-Digest: Wu7TCM8hQy/9gNLT0eVwJ0bMYo4=
+
+Name: assets/Game/235.1so
+SHA1-Digest: pa1UDdTR9x3M64lbXgaXtakzFDc=
+
+Name: assets/Game/236.1so
+SHA1-Digest: zh7r87ld9tKTfLYn3aqHlqy0Hp8=
+
+Name: assets/Game/237.1so
+SHA1-Digest: 9DO5Nt8SrUIQmryvpOXgsI1K/EQ=
+
+Name: assets/Game/238.1so
+SHA1-Digest: U/W7uDY4pDVBFoTV/YO8Fqa9PVw=
+
+Name: assets/Game/239.1so
+SHA1-Digest: 2wPlfqBw5t3Qy7Pxk40nGSACIek=
+
+Name: assets/Game/24.1at
+SHA1-Digest: rB+cpv1owG5wL+LeBaw8u2sHg+Y=
+
+Name: assets/Game/24.1so
+SHA1-Digest: ylAjQOOCGHhR8XdydvXi7DtQ97c=
+
+Name: assets/Game/24.1sp
+SHA1-Digest: oPpajzDN1zutoE3pHZXu7Q+cM1Y=
+
+Name: assets/Game/240.1so
+SHA1-Digest: bxITS7tEFImT819Q3Le8cit5Ks4=
+
+Name: assets/Game/241.1so
+SHA1-Digest: zjtTwNB8Xzpm+MCTo+MTSb+m8lM=
+
+Name: assets/Game/242.1so
+SHA1-Digest: mLDCCpYE6A6cXFmAmYSfMAHnQUs=
+
+Name: assets/Game/243.1so
+SHA1-Digest: ZDVW/jz7TxXH0W8unU3PGBwNNyk=
+
+Name: assets/Game/244.1so
+SHA1-Digest: wm8fQGzB1ePWUuiZ9Iiw7butCjU=
+
+Name: assets/Game/245.1so
+SHA1-Digest: Qn8CL+v1kFgDfL9JSkPJSvU+W6U=
+
+Name: assets/Game/246.1so
+SHA1-Digest: gEdjDBAeUUCqddhal/BgctwRvK8=
+
+Name: assets/Game/247.1so
+SHA1-Digest: TogH5tH04PkZIqvJHw1wxmflOJo=
+
+Name: assets/Game/248.1so
+SHA1-Digest: xjpcFYLHisQ2UTujQ+AkcBYenBw=
+
+Name: assets/Game/249.1so
+SHA1-Digest: Isdzr6fVE61H0SrXzr/+3NYhLZs=
+
+Name: assets/Game/25.1at
+SHA1-Digest: DGeRIc9XAib094VehvyPa2gIydA=
+
+Name: assets/Game/25.1so
+SHA1-Digest: 3/2TQwLYBNh7b3xgiXm07KnknXI=
+
+Name: assets/Game/25.1sp
+SHA1-Digest: ONMUQKOyhWWdr/nLgw3cEzXDgNE=
+
+Name: assets/Game/250.1so
+SHA1-Digest: CObP5zXyKqdsCoE4afCHY5duTwc=
+
+Name: assets/Game/251.1so
+SHA1-Digest: b3HGt1S8y/qASXtJlOm18G2Nwzk=
+
+Name: assets/Game/252.1so
+SHA1-Digest: 8jJvD+nGlbfRiRdWxrpIewQD8P8=
+
+Name: assets/Game/253.1so
+SHA1-Digest: eOf0Vn1Bdy7NeHg2zTEQCxdX2sU=
+
+Name: assets/Game/254.1so
+SHA1-Digest: lM90Yf1jvow9M6Yq2JzXDbOd4ys=
+
+Name: assets/Game/255.1so
+SHA1-Digest: hJNZG7hSMQjH4j8m9Z5UxbFh1gw=
+
+Name: assets/Game/256.1so
+SHA1-Digest: FjIBndjhFfaCw7XPj3ERWdjCGCk=
+
+Name: assets/Game/257.1so
+SHA1-Digest: d48iDP778k2jPYPFUWGp9R1WtdM=
+
+Name: assets/Game/258.1so
+SHA1-Digest: GAdcFAgZ/UzOfr46qlWlOiAAyx8=
+
+Name: assets/Game/259.1so
+SHA1-Digest: O7qCreUj0Xba+EZEX/B/XlgnfhU=
+
+Name: assets/Game/26.1at
+SHA1-Digest: w+nwf39yWfmMoDUcS/FtKVEOZ4c=
+
+Name: assets/Game/26.1so
+SHA1-Digest: gN6tuuUcFMdQOOjc4R2PotJAoc8=
+
+Name: assets/Game/26.1sp
+SHA1-Digest: U1jmn2MO56+l/nhuuyFtB4aHzTE=
+
+Name: assets/Game/260.1so
+SHA1-Digest: 6ek9z5S1Kh+9Cyab+mVCBzTYDKM=
+
+Name: assets/Game/261.1so
+SHA1-Digest: 2aur9uppuzZC/s78iVGe10ikmdc=
+
+Name: assets/Game/262.1so
+SHA1-Digest: PQuEVofKnwZOCUaF/kD2ot1XOmE=
+
+Name: assets/Game/263.1so
+SHA1-Digest: tJF3uKbC7VZWy4c0X5CcTk4p9aU=
+
+Name: assets/Game/264.1so
+SHA1-Digest: Yz3ujASUWiQFraJu7KRJlJL/g0g=
+
+Name: assets/Game/265.1so
+SHA1-Digest: 3zX3zCrU9VcWjAxNl3hq8WUECwI=
+
+Name: assets/Game/266.1so
+SHA1-Digest: eOiqZkuZS0kKbQ7Od5rvaf38eF0=
+
+Name: assets/Game/267.1so
+SHA1-Digest: GGGuSOAgx4yhNtQVuJROV5VVVE8=
+
+Name: assets/Game/268.1so
+SHA1-Digest: aMCfArC9Bv8rBRIdJPbBhn/PdFI=
+
+Name: assets/Game/269.1so
+SHA1-Digest: kQ10ebeUEsWIK7fV+Ih0v5Bchh4=
+
+Name: assets/Game/27.1at
+SHA1-Digest: S4ejRYetQQxaSWqOhynzIMWEvTM=
+
+Name: assets/Game/27.1so
+SHA1-Digest: wDpQzlEddpq6PkQRgQYZQtbgNSI=
+
+Name: assets/Game/27.1sp
+SHA1-Digest: 8tBjOKcbnZZkII5+VoJLgtGffQ8=
+
+Name: assets/Game/270.1so
+SHA1-Digest: zi5ETTOFtCDdFuAI7OSHzRXCiHw=
+
+Name: assets/Game/271.1so
+SHA1-Digest: UuY+T1ZrE1oyBOmwYilQhrFLbKA=
+
+Name: assets/Game/272.1so
+SHA1-Digest: lY/ae9EBxXBkfiPEnDb2qE9TnYg=
+
+Name: assets/Game/273.1so
+SHA1-Digest: ExBhaBdojmnKWMLAZCJPVohaCq0=
+
+Name: assets/Game/274.1so
+SHA1-Digest: 704PTyjYVfSQ9qc50Wk2P5p/nTQ=
+
+Name: assets/Game/275.1so
+SHA1-Digest: PddS5NjlOpaRwBzslnE43uQ8vU0=
+
+Name: assets/Game/276.1so
+SHA1-Digest: oDF0YFelhpz7f6fTMDFHof18l78=
+
+Name: assets/Game/277.1so
+SHA1-Digest: nYoD9EsoFAL9UvKa3P/F0w9OpJs=
+
+Name: assets/Game/278.1so
+SHA1-Digest: zZn/264YghX/Oegkcfup4sm0YpE=
+
+Name: assets/Game/279.1so
+SHA1-Digest: aSbL+q4HkPPsTPqWmcPKgbuhpDk=
+
+Name: assets/Game/28.1at
+SHA1-Digest: 1P+c3T1nvfCRDQlPgD4jthzbwh4=
+
+Name: assets/Game/28.1so
+SHA1-Digest: tmB93thEkjBy76xOyZXrV5v95Oc=
+
+Name: assets/Game/28.1sp
+SHA1-Digest: EHPGGBaeq8wkWojtj+NL++A3WIc=
+
+Name: assets/Game/280.1so
+SHA1-Digest: I8SyYj7LSzIJIjc7h3abQ8aEakY=
+
+Name: assets/Game/281.1so
+SHA1-Digest: ahsrUkut6c+CZzzWv5Gv+XXVfYM=
+
+Name: assets/Game/282.1so
+SHA1-Digest: 3QDZavReSax5OeOcX7ug72fGpUA=
+
+Name: assets/Game/283.1so
+SHA1-Digest: Kk42kVg4wtdJSM4t3qE5Owi9dYI=
+
+Name: assets/Game/284.1so
+SHA1-Digest: PTUkpV4++Nfk+REjrFJ8ph+qOeE=
+
+Name: assets/Game/285.1so
+SHA1-Digest: 2P6ypbtPFS1U52fDa7UOXgOj15A=
+
+Name: assets/Game/286.1so
+SHA1-Digest: cFULyAg/EKpy8WSBVnXrfcemlF0=
+
+Name: assets/Game/287.1so
+SHA1-Digest: QDwE6Z8vXL6A3nHBdq9rGuUOtas=
+
+Name: assets/Game/288.1so
+SHA1-Digest: ZktaMInKPyFGKxAuIeFtF8wYsHI=
+
+Name: assets/Game/289.1so
+SHA1-Digest: SMYJvjxVvyqNylZRmrMXXnqyt1k=
+
+Name: assets/Game/29.1at
+SHA1-Digest: gIKln0utpYGE6Nd5E9uHUXe0ego=
+
+Name: assets/Game/29.1so
+SHA1-Digest: QQM1b/zOpOi/j/ocE6Sks8/rf9M=
+
+Name: assets/Game/29.1sp
+SHA1-Digest: 0LCRcSdTWYlYO3e0SeAqa/skbQs=
+
+Name: assets/Game/290.1so
+SHA1-Digest: cCF2OvhInevmlBO2cxPI4Lod6Vk=
+
+Name: assets/Game/291.1so
+SHA1-Digest: Db7kPTRi2KdasTF2ZF212W3HTyI=
+
+Name: assets/Game/292.1so
+SHA1-Digest: h59LDwa2jIuyLJoCi8ROajWv7bA=
+
+Name: assets/Game/293.1so
+SHA1-Digest: 6e9QjHVsgpq5GMmWZdAqi5KzfFQ=
+
+Name: assets/Game/294.1so
+SHA1-Digest: XhCRx0AylNLU9yxaH2BSH+MItAw=
+
+Name: assets/Game/295.1so
+SHA1-Digest: ux85uXyQfi3rPSOQspSTNwdd6aQ=
+
+Name: assets/Game/296.1so
+SHA1-Digest: aBPF5NL19oYvJlMt+VpMfIKveYk=
+
+Name: assets/Game/297.1so
+SHA1-Digest: fyb1cJvQMCkLxMBgdLiAcWZ2iqE=
+
+Name: assets/Game/298.1so
+SHA1-Digest: UjPDpi+eGBUj3L/twt+CPtN6RAY=
+
+Name: assets/Game/299.1so
+SHA1-Digest: fJ4j/seNTQxcmVcaQRSYbPVY5B4=
+
+Name: assets/Game/3.1at
+SHA1-Digest: w4+LQSmd0+r9EYIs4cVvwg8w8uc=
+
+Name: assets/Game/3.1ce
+SHA1-Digest: S7lgZ5BRgCwR9AQkzCtyzURKYMM=
+
+Name: assets/Game/3.1it
+SHA1-Digest: n5rexdEN8KdzpKiTAvjHo9Sq/SA=
+
+Name: assets/Game/3.1so
+SHA1-Digest: z4HLU8D8Ka/vW/i9a6rVRwNGQL8=
+
+Name: assets/Game/3.1sp
+SHA1-Digest: Vzi8CLH8AAeJnbICJq/n4tl5as8=
+
+Name: assets/Game/3.1ts
+SHA1-Digest: vbtQnmILkW2wYTtRkgpSogE4C3k=
+
+Name: assets/Game/30.1at
+SHA1-Digest: nQXmi9nj+zk8YhTyZKhWT2CMcfE=
+
+Name: assets/Game/30.1so
+SHA1-Digest: WyUCbJm3ltftVRcy4zlwWIdkILc=
+
+Name: assets/Game/30.1sp
+SHA1-Digest: twVx5b5jgHmzOGOUpqdgbI0vkzo=
+
+Name: assets/Game/300.1so
+SHA1-Digest: RZo0tX1bERrVDUEDwAsZGjTzvpU=
+
+Name: assets/Game/301.1so
+SHA1-Digest: +LWE58DJTxhnpMyiSIYxABA7j7E=
+
+Name: assets/Game/302.1so
+SHA1-Digest: xfYiC/JqNNngK/0F+rFepQ8p6Og=
+
+Name: assets/Game/303.1so
+SHA1-Digest: Cb9xlXvy8Jd5uJCyZp8qwxY6Mic=
+
+Name: assets/Game/304.1so
+SHA1-Digest: 0/1p376GlJX9qvge/Awn+DuHy58=
+
+Name: assets/Game/305.1so
+SHA1-Digest: 0YQOxCIqedzcSakFk4gEtp1EpuA=
+
+Name: assets/Game/306.1so
+SHA1-Digest: oloTVtGJQt0BPZCwR5IUNDghvnM=
+
+Name: assets/Game/307.1so
+SHA1-Digest: kBHzLMCTtlfHLUAXi+tmOId3teg=
+
+Name: assets/Game/308.1so
+SHA1-Digest: gT7a4G+IvlC62SwyUTqiagiWUSU=
+
+Name: assets/Game/309.1so
+SHA1-Digest: uj4XGU0mw/G18DqZiWs5ofG0i/8=
+
+Name: assets/Game/31.1at
+SHA1-Digest: TCtzLGtHvye2IW6AeMuxz1aT/tQ=
+
+Name: assets/Game/31.1so
+SHA1-Digest: 7qDbAnZDicus/BgHAtbwZtfwytc=
+
+Name: assets/Game/31.1sp
+SHA1-Digest: X+PQPdAXcZZxo1/PoW5i+D+q5Bg=
+
+Name: assets/Game/310.1so
+SHA1-Digest: c76Gn4v1y/OoecQsyK5oISdvPzA=
+
+Name: assets/Game/311.1so
+SHA1-Digest: t0iGAuL4M1VpH2+xr2h22fzioBo=
+
+Name: assets/Game/312.1so
+SHA1-Digest: 8UJo2lKkZ0/4eY3XkmGQwO8hBUw=
+
+Name: assets/Game/313.1so
+SHA1-Digest: gYYqSWxtFdre/x09iVcvpA2z3/Q=
+
+Name: assets/Game/314.1so
+SHA1-Digest: PihgIFdIxchklMI0dI512E63HIE=
+
+Name: assets/Game/315.1so
+SHA1-Digest: NdoQNjyRDNkbEzw/2ZRl5i1bgj4=
+
+Name: assets/Game/316.1so
+SHA1-Digest: 9QtRyImUOaQUQX3ghUDQ5VIdUI0=
+
+Name: assets/Game/317.1so
+SHA1-Digest: Ek7bbrKaz1W4unIa+ESyN3D2wjs=
+
+Name: assets/Game/318.1so
+SHA1-Digest: O8wWTeY1JG6c2W+7JYi6fZ90IZs=
+
+Name: assets/Game/319.1so
+SHA1-Digest: UEzP5kniNC5NebWMPmBcQxEMyAI=
+
+Name: assets/Game/32.1at
+SHA1-Digest: ZvJUvE+gzzHf7QfhAsFK650FHJ4=
+
+Name: assets/Game/32.1so
+SHA1-Digest: YxXnxcurmc2SDRdGliQmiqcVLfY=
+
+Name: assets/Game/32.1sp
+SHA1-Digest: ZihJUgUSm59dbgbTrW5G9fmYa80=
+
+Name: assets/Game/320.1so
+SHA1-Digest: TdLfdTR3YwlsCxBe7ztpE9lX9jw=
+
+Name: assets/Game/321.1so
+SHA1-Digest: rakQ8igwPYtBwiOW7V7UXybXu8Y=
+
+Name: assets/Game/322.1so
+SHA1-Digest: 2Nfdop17vtqFikj3Q8292mfWW88=
+
+Name: assets/Game/323.1so
+SHA1-Digest: r7oKMwRFs4SjNtH2ZAHStxzhJtU=
+
+Name: assets/Game/324.1so
+SHA1-Digest: FocI1anFhzZoV7womHRm/LRSueg=
+
+Name: assets/Game/325.1so
+SHA1-Digest: /gdRh/dWrQPT3kh+RN9AtwHyOxs=
+
+Name: assets/Game/326.1so
+SHA1-Digest: 3BN34vXS4ZJE7jfNV7gV43ui9PU=
+
+Name: assets/Game/327.1so
+SHA1-Digest: P+zjwq93kCrDowWsCyWY1+RmGqA=
+
+Name: assets/Game/328.1so
+SHA1-Digest: sxcyo1Dx555ZKXaHEvVbePSRkL8=
+
+Name: assets/Game/329.1so
+SHA1-Digest: 1uxQ2921qIe3EgVWZR9GnR+gtwE=
+
+Name: assets/Game/33.1at
+SHA1-Digest: 2jJ4thrBlvc414X2E2ktT6xoAnY=
+
+Name: assets/Game/33.1so
+SHA1-Digest: M/AsdLXjjyc31y3Rp6SrjB5w1tw=
+
+Name: assets/Game/33.1sp
+SHA1-Digest: ZWkwgaAwTPAV7cn34nECQxSV/W4=
+
+Name: assets/Game/330.1so
+SHA1-Digest: 3a4Ylhbu+7qJeUjO17/PVa/qy9k=
+
+Name: assets/Game/331.1so
+SHA1-Digest: KZAD4HyN22F5etH5JMzhJm0TxiE=
+
+Name: assets/Game/332.1so
+SHA1-Digest: ueZPLXEqWlujRBBm4n0NLMC4z44=
+
+Name: assets/Game/333.1so
+SHA1-Digest: SOj4Ffm49RUJXXRjR4YQ7tVVHaA=
+
+Name: assets/Game/334.1so
+SHA1-Digest: +gG1c0+OBqC4aPn9rn8CKJiTMR0=
+
+Name: assets/Game/335.1so
+SHA1-Digest: crX8k5mWwr3Xgz/nu3ITxtJGdkw=
+
+Name: assets/Game/336.1so
+SHA1-Digest: 9zw9KnLAj0ZgAED4kLgUOV5tCSY=
+
+Name: assets/Game/337.1so
+SHA1-Digest: sCqTgYj8ErvvJ+lNZB/hBGIAAAo=
+
+Name: assets/Game/338.1so
+SHA1-Digest: pULHC4c6Xvwll1TZfJAZkz0heiQ=
+
+Name: assets/Game/339.1so
+SHA1-Digest: PbhufQ1YhmdAti4TqvQ9vswBxAo=
+
+Name: assets/Game/34.1at
+SHA1-Digest: p7Nv/yL+0qa3Q5CPCBsxJPQWYNQ=
+
+Name: assets/Game/34.1so
+SHA1-Digest: QkQUIlpHJWr1ZRqfPZjHbPb7b3E=
+
+Name: assets/Game/34.1sp
+SHA1-Digest: KngSIz1TzRdExPuh8bxhskmBPUY=
+
+Name: assets/Game/340.1so
+SHA1-Digest: X+QyiEKNoqaMi6/RkMQZYw2oerQ=
+
+Name: assets/Game/341.1so
+SHA1-Digest: 7jKNvh+1DMZT/J9eJ71rki+I5dg=
+
+Name: assets/Game/342.1so
+SHA1-Digest: 1MZm+bEpbc4i7iAf3LHzUno5YUY=
+
+Name: assets/Game/343.1so
+SHA1-Digest: FN1Vm29OcOMndojUjqNXUoEpLyM=
+
+Name: assets/Game/344.1so
+SHA1-Digest: inOw259/wLTMmgeTadplhtXlZto=
+
+Name: assets/Game/345.1so
+SHA1-Digest: CvFpP3ZXR8RzJdpoSY2d4ooT+i4=
+
+Name: assets/Game/346.1so
+SHA1-Digest: vkTV/UdnVhB8bGQvsmHPW519u4M=
+
+Name: assets/Game/347.1so
+SHA1-Digest: zvx0L7qkOtAajb1i9Om0KhJXdGg=
+
+Name: assets/Game/348.1so
+SHA1-Digest: DswpwixCOm+RBpHBExqZlv6ST7E=
+
+Name: assets/Game/349.1so
+SHA1-Digest: Xja3uNCc9IyboTjo5UtiOD6b3e8=
+
+Name: assets/Game/35.1at
+SHA1-Digest: rSeGfZ4WSiBCghZ37FXRG+oiukM=
+
+Name: assets/Game/35.1so
+SHA1-Digest: s8No+yAMB+7oxZ34SFLdeNDJwd4=
+
+Name: assets/Game/35.1sp
+SHA1-Digest: kfHmn5/8vyqX6OskjxplcQuxNhI=
+
+Name: assets/Game/350.1so
+SHA1-Digest: MkHPFkejP7WyUv6JxXzlaOCeOlQ=
+
+Name: assets/Game/351.1so
+SHA1-Digest: C34X71c/c2VToOR/sDwB1scdEdw=
+
+Name: assets/Game/352.1so
+SHA1-Digest: 4ub9OSTQaKRW7tc3kOwSwqazkmk=
+
+Name: assets/Game/353.1so
+SHA1-Digest: pzuvuYP/KZWrbkk1PgkaydvH/q4=
+
+Name: assets/Game/354.1so
+SHA1-Digest: DS5G7XYjaqR3UWROFrtYc7AgjUI=
+
+Name: assets/Game/355.1so
+SHA1-Digest: BjFuAJLuA44ejQeiYT6F2g0eGHE=
+
+Name: assets/Game/356.1so
+SHA1-Digest: vkJWlAgvdoNPHMJCw2SBe+55zIs=
+
+Name: assets/Game/357.1so
+SHA1-Digest: vhYYPcgWdk0KyeoMlwlXkYYkwus=
+
+Name: assets/Game/358.1so
+SHA1-Digest: BATHMb8mPBx1knsI7fdgCG4An7w=
+
+Name: assets/Game/359.1so
+SHA1-Digest: howifseS6OWhs57J4dj+Q+6O5GE=
+
+Name: assets/Game/36.1at
+SHA1-Digest: WCoP0Gjii4c8dHasZJ39ryxrb1A=
+
+Name: assets/Game/36.1so
+SHA1-Digest: GLIuxB1RScxO4eTJyPnsHGoMJ7E=
+
+Name: assets/Game/36.1sp
+SHA1-Digest: O5fI4tre9wQPu/sWHqf+F9R+OrQ=
+
+Name: assets/Game/360.1so
+SHA1-Digest: nseUbQiUEcmJgRVZZakRGNLLr3k=
+
+Name: assets/Game/361.1so
+SHA1-Digest: JZeuKRN41IV/Hx3MqLQLD0NQ98k=
+
+Name: assets/Game/362.1so
+SHA1-Digest: NDYpBkfO8Ih+6M7oU6oHuM8EOhw=
+
+Name: assets/Game/363.1so
+SHA1-Digest: qKO79keBkRlPzMd75hKhvYHNCM0=
+
+Name: assets/Game/364.1so
+SHA1-Digest: bVwIJP/pqQoEsxW9Ysn/xGLhMA4=
+
+Name: assets/Game/365.1so
+SHA1-Digest: 2XGcpvtoEToISSSMQmsstQSnMvc=
+
+Name: assets/Game/366.1so
+SHA1-Digest: UCvnI+NjuM4SutTPILqdo53wK9k=
+
+Name: assets/Game/367.1so
+SHA1-Digest: OkmLA23ExrOEGh+lxMpVMlCuFgQ=
+
+Name: assets/Game/368.1so
+SHA1-Digest: EOLk6tAEe4lDgkm1eizT4gRc77s=
+
+Name: assets/Game/369.1so
+SHA1-Digest: jzo26u9K2eZ9fzlBQp6NFJStidc=
+
+Name: assets/Game/37.1at
+SHA1-Digest: 0NWiGscPdYv5Mgsnbe8OGgXyaOw=
+
+Name: assets/Game/37.1so
+SHA1-Digest: izCZ0JK4o8r6R8PeYfAnojw+Bno=
+
+Name: assets/Game/37.1sp
+SHA1-Digest: kIp60gDrYC8aNQKXeBQakaRUAKk=
+
+Name: assets/Game/370.1so
+SHA1-Digest: SNKPsOqOLN3mQboQ/WOIfKye3OY=
+
+Name: assets/Game/371.1so
+SHA1-Digest: p5cIPlBUwNGWa+Loff9ZwguR3NI=
+
+Name: assets/Game/372.1so
+SHA1-Digest: K6e1KqrEOsVdyf5HTWUbYiO4A1c=
+
+Name: assets/Game/373.1so
+SHA1-Digest: 3KxVOa+GGBG0H8MHSoa0/uPUtuw=
+
+Name: assets/Game/374.1so
+SHA1-Digest: t3eeLJDe1v/xQmM05FxZz8DNcnU=
+
+Name: assets/Game/375.1so
+SHA1-Digest: NraVQratsPl4ockO30UDw2sEqdE=
+
+Name: assets/Game/376.1so
+SHA1-Digest: 3Ih3c9s4lFlJ/hlTksXM0GN8Id8=
+
+Name: assets/Game/377.1so
+SHA1-Digest: wmm1HcN/Qcmie2sTCiM4V3VLrZ0=
+
+Name: assets/Game/378.1so
+SHA1-Digest: hz/qSXuuQ/Tf41Ec3Fhr0IXLRvI=
+
+Name: assets/Game/379.1so
+SHA1-Digest: so///u50/JUH03W0UWCEPQypwhg=
+
+Name: assets/Game/38.1at
+SHA1-Digest: MmRK54xK5MZkpdfGKFspB/mobUE=
+
+Name: assets/Game/38.1so
+SHA1-Digest: WL7s4C6Dl9ccRbPMfp+5cHA/BtI=
+
+Name: assets/Game/38.1sp
+SHA1-Digest: v/7IQahm2RXCo35Fm7J3o4yuQW8=
+
+Name: assets/Game/380.1so
+SHA1-Digest: Oa6+8docHhsJ7W2if9dqWkZAv6M=
+
+Name: assets/Game/381.1so
+SHA1-Digest: bUaObdT3zoqT6X57k/avqLxCvrg=
+
+Name: assets/Game/382.1so
+SHA1-Digest: Vc/PIcUm9eh40dEONEiiGfWp4Tk=
+
+Name: assets/Game/383.1so
+SHA1-Digest: Hz4FPz9U4jbBcg/iloZPrVcd7C4=
+
+Name: assets/Game/384.1so
+SHA1-Digest: L4aJ1sO6ne7zZVaFB+LhmH3Utio=
+
+Name: assets/Game/385.1so
+SHA1-Digest: pGeOjmSB0d+NZrjcqruP8nyAqqo=
+
+Name: assets/Game/386.1so
+SHA1-Digest: 0I4oJBVy/QJgb+5TYSG7c7bFFMo=
+
+Name: assets/Game/387.1so
+SHA1-Digest: DGEKHeEg2Tc99/4zY7XAcFICyUY=
+
+Name: assets/Game/388.1so
+SHA1-Digest: W2zNuPjAQ1iiT5k24n3w4v1FPkA=
+
+Name: assets/Game/389.1so
+SHA1-Digest: deB/dpk5wDGY2cH4xSujd7gRAkY=
+
+Name: assets/Game/39.1at
+SHA1-Digest: JAdck5E7+0SO7borlAktyVkmA0A=
+
+Name: assets/Game/39.1so
+SHA1-Digest: 6om0TmKk8LZB2tNRBfqn6rXODR4=
+
+Name: assets/Game/39.1sp
+SHA1-Digest: jjDaHs6pDm8zvsi17Z1UU4D4/tY=
+
+Name: assets/Game/390.1so
+SHA1-Digest: pIL2+VInmX+S6VKG5pBpVT2UGbA=
+
+Name: assets/Game/391.1so
+SHA1-Digest: iQg0rSr0pBwkr+G8+bvDJYLKRSE=
+
+Name: assets/Game/392.1so
+SHA1-Digest: lklp9y+wjws+qQOBYqGzZwJMsvg=
+
+Name: assets/Game/393.1so
+SHA1-Digest: yl6WyXaSs8jeboTQfzx8iMA2Zrg=
+
+Name: assets/Game/394.1so
+SHA1-Digest: nWZ5lAPAnyMOs6RDmX6n1dJeEec=
+
+Name: assets/Game/395.1so
+SHA1-Digest: ENm3pVAtfhBJs5+nPfzcqXNjWuk=
+
+Name: assets/Game/396.1so
+SHA1-Digest: 4Ysf+eG+RWilFopixf/x3V3hQhI=
+
+Name: assets/Game/397.1so
+SHA1-Digest: DCWmUFbnIH3T6Ouh+joMMG94LEU=
+
+Name: assets/Game/398.1so
+SHA1-Digest: cywFegPnQg6ET4JleUBQ+BClVCo=
+
+Name: assets/Game/399.1so
+SHA1-Digest: TClBVi94YTK+pyOCsfKEy5QipEc=
+
+Name: assets/Game/4.1at
+SHA1-Digest: uPE+t/xNHN0o4DevDEs5drg71dE=
+
+Name: assets/Game/4.1ce
+SHA1-Digest: FUX2kr5JPbt6KEhTpTq0DNJF25s=
+
+Name: assets/Game/4.1it
+SHA1-Digest: EqODSloU+uB9vrsxw5UL/EW6KyA=
+
+Name: assets/Game/4.1so
+SHA1-Digest: ZyqRc8YJ6MRpE2fYQ3DYM4RiBa4=
+
+Name: assets/Game/4.1sp
+SHA1-Digest: arT+S5Xj1NNDqxmtk+Lc5AZvvVA=
+
+Name: assets/Game/4.1ts
+SHA1-Digest: iIFAOFOV23ID5x07AFd+2AcTwik=
+
+Name: assets/Game/40.1at
+SHA1-Digest: HchisqbZ1rvdDZ3aI0jOYZkGsvs=
+
+Name: assets/Game/40.1so
+SHA1-Digest: s8AWKH95CHorTt4nefSSeMpVs2U=
+
+Name: assets/Game/40.1sp
+SHA1-Digest: n+S/MIUnqXwVly+IMr1uRv4SCoQ=
+
+Name: assets/Game/400.1so
+SHA1-Digest: /tScZu9KjesVrwNI6IaGnWjOnbo=
+
+Name: assets/Game/401.1so
+SHA1-Digest: XKKYtGGA6luyrPcPAiOjJKnD5aA=
+
+Name: assets/Game/402.1so
+SHA1-Digest: Live+jQfqn4I07XkMcFOBapAltk=
+
+Name: assets/Game/403.1so
+SHA1-Digest: Ar1I3u804UUWnHL6naXSLBQb4Ow=
+
+Name: assets/Game/404.1so
+SHA1-Digest: 11II7SlqJP4PPg+UV3P90ii9wRg=
+
+Name: assets/Game/405.1so
+SHA1-Digest: 7DB7Lv+K0rkn63YgWJQQh7Im1qc=
+
+Name: assets/Game/406.1so
+SHA1-Digest: S7Y4QcDe+IuZf7lxaGSk1CqU2es=
+
+Name: assets/Game/407.1so
+SHA1-Digest: HVA5Rj53/nA/tIvChnPlfHNL2VE=
+
+Name: assets/Game/408.1so
+SHA1-Digest: oDOXnfuU/40pdyxTl6XcghSYWWg=
+
+Name: assets/Game/409.1so
+SHA1-Digest: UwCHl5jeEw2c6sEkIAgJE+RjVVU=
+
+Name: assets/Game/41.1at
+SHA1-Digest: gRWwCXS6UXwUPfshjGT6iFNMHH8=
+
+Name: assets/Game/41.1so
+SHA1-Digest: h1Uzl0oasMcYd0VDOtiShAOl4kw=
+
+Name: assets/Game/41.1sp
+SHA1-Digest: 0KzW9VWsAnJyKWKY4F9zOtUPFPE=
+
+Name: assets/Game/410.1so
+SHA1-Digest: 8CLQ1seazwazD9cN0h1dfK+Hk7U=
+
+Name: assets/Game/411.1so
+SHA1-Digest: 8Y4xdT6QOcsQJJ2bW8V+lw8MaU0=
+
+Name: assets/Game/412.1so
+SHA1-Digest: KUUOgHTpl02rIv3ifTCA98Kc0+0=
+
+Name: assets/Game/413.1so
+SHA1-Digest: xm7On5TkGT6YpOwtLS8DQK9Z5lg=
+
+Name: assets/Game/414.1so
+SHA1-Digest: WRXKfA6AS7e33x3far4Z00kENfk=
+
+Name: assets/Game/415.1so
+SHA1-Digest: jsWaK5HHwcnSfsleaTudnmHEOKI=
+
+Name: assets/Game/416.1so
+SHA1-Digest: FG8fygtyQr1y8K4hDRjfrx7wH44=
+
+Name: assets/Game/417.1so
+SHA1-Digest: XBb7j4/rRbLDcPAXuntJ/lpWTcQ=
+
+Name: assets/Game/418.1so
+SHA1-Digest: CIBEpNRHmRczQXPD/ey3Vh9+4nY=
+
+Name: assets/Game/419.1so
+SHA1-Digest: yGTeuBglEPUuuQsSnCfk+oXpxXo=
+
+Name: assets/Game/42.1at
+SHA1-Digest: wQst3YpyTCEJ6c3QXY/Ooo+Sa48=
+
+Name: assets/Game/42.1so
+SHA1-Digest: 4BVNpMIfyCBvwc6gG8QWaKJZ/oU=
+
+Name: assets/Game/42.1sp
+SHA1-Digest: usBdE3qrpBkZxO10NJY6rRHdsp0=
+
+Name: assets/Game/420.1so
+SHA1-Digest: DoaJnumh00J+eUzXNC8ldxurr+c=
+
+Name: assets/Game/421.1so
+SHA1-Digest: N0w43ZAuK89Y3I/olQSfMV9o12k=
+
+Name: assets/Game/422.1so
+SHA1-Digest: N7WxGq6iZBU5/w/RRrB8V+ATOQA=
+
+Name: assets/Game/423.1so
+SHA1-Digest: lbwcpR+EeaOzUiNMOvDVEY0AEZk=
+
+Name: assets/Game/424.1so
+SHA1-Digest: CCxmzNZ9laRbkZfELUQLd+Ubb6g=
+
+Name: assets/Game/425.1so
+SHA1-Digest: gz3uIWa3DLiDXCDL2bJl1Gj3EYE=
+
+Name: assets/Game/426.1so
+SHA1-Digest: qcFQK4RaDUOAgEiPCJo4AdPYNYY=
+
+Name: assets/Game/427.1so
+SHA1-Digest: Q00dHsakygxxyfy3m1A/NmCWKuo=
+
+Name: assets/Game/428.1so
+SHA1-Digest: nLpCnalokYx/A0CpfbkAD7xpYaA=
+
+Name: assets/Game/429.1so
+SHA1-Digest: GNPzNwmq5BsRcSo6lF5DYPoewsM=
+
+Name: assets/Game/43.1at
+SHA1-Digest: 2ORkcRGPpKnZAeeUl2aG3t/7FOs=
+
+Name: assets/Game/43.1so
+SHA1-Digest: Wp+x9JwlbR1nH6lLBT9A0Xv3CAk=
+
+Name: assets/Game/43.1sp
+SHA1-Digest: 0v6Qem/qv7RFsuqdK4v5+oAGFTQ=
+
+Name: assets/Game/430.1so
+SHA1-Digest: 8AgIN+IRhpxUnD5u0XXiavnMKFE=
+
+Name: assets/Game/431.1so
+SHA1-Digest: xtcumR5XMdoW+ARha7UkgU+6CF0=
+
+Name: assets/Game/432.1so
+SHA1-Digest: kE+Ze7GHcu3xStas6/dWi6e5KI8=
+
+Name: assets/Game/433.1so
+SHA1-Digest: oshTu2TttCF3GudHjRCXi8bydyo=
+
+Name: assets/Game/434.1so
+SHA1-Digest: 32NCf7yZosFrdMotnCYXfsy0vPE=
+
+Name: assets/Game/435.1so
+SHA1-Digest: SIp3VD7CnnZYNn95uvrFwgfzGjM=
+
+Name: assets/Game/436.1so
+SHA1-Digest: P7teJQmh0j1lqOeLOcDL7O1LVTw=
+
+Name: assets/Game/437.1so
+SHA1-Digest: SHMQ9Noe5fL7H8vUGQ1u075CJNE=
+
+Name: assets/Game/438.1so
+SHA1-Digest: 7Frx5ZUeSuvU7kr8DarAO0nMWgQ=
+
+Name: assets/Game/439.1so
+SHA1-Digest: xL/+NsCbiKXr+TgXBv9IelwDALc=
+
+Name: assets/Game/44.1at
+SHA1-Digest: 1CMfcpS1zMfGz5Lp5csKHV521LY=
+
+Name: assets/Game/44.1so
+SHA1-Digest: OKrbCtmqjDMmSD+piqLlHmwpsDM=
+
+Name: assets/Game/44.1sp
+SHA1-Digest: VES8RI3Z0gnu3smKC9BYDhch+ME=
+
+Name: assets/Game/440.1so
+SHA1-Digest: c0zkH9pnLePtC1kA5/wHezOzVcI=
+
+Name: assets/Game/441.1so
+SHA1-Digest: aCYsFHgsTbTZhSsx4Yo3A91hZd8=
+
+Name: assets/Game/442.1so
+SHA1-Digest: Vv3eqgjUT2Oxkny8y5yHAFVN4Xk=
+
+Name: assets/Game/443.1so
+SHA1-Digest: hLJNMKe5btpxWLugEzTK9obtXGQ=
+
+Name: assets/Game/444.1so
+SHA1-Digest: 3xa6Tu2VaBNye5x65RtFPYRrHQM=
+
+Name: assets/Game/445.1so
+SHA1-Digest: zhJ6sCe/oXMEtVzBvbyk/SirkU8=
+
+Name: assets/Game/446.1so
+SHA1-Digest: ssLYzOw0C1t0nGL3uBo0bKbkFTQ=
+
+Name: assets/Game/447.1so
+SHA1-Digest: TVK06k8MQlk4KbJ9sQrNjKWo/M8=
+
+Name: assets/Game/448.1so
+SHA1-Digest: bB4N3gXY+JIdzTdpiUzyHq0E5Tc=
+
+Name: assets/Game/449.1so
+SHA1-Digest: jFyLg0Fj6653Hxgpt5gFxeKlKjk=
+
+Name: assets/Game/45.1at
+SHA1-Digest: G6IEyva+mkJauV9wNERindvlNsQ=
+
+Name: assets/Game/45.1so
+SHA1-Digest: MeQZaIOZGTgWTY0mPe7M6YFhfCI=
+
+Name: assets/Game/45.1sp
+SHA1-Digest: gvfwqqt7x6ClvcXyeTesqWGq96M=
+
+Name: assets/Game/450.1so
+SHA1-Digest: yyfC7nB/JNWDQFgmXc0B9JIXJx8=
+
+Name: assets/Game/451.1so
+SHA1-Digest: 9Pr2bDmQ0VTrXaI5zVSXaUVTJNI=
+
+Name: assets/Game/452.1so
+SHA1-Digest: GkcYTUugdkRwrT8D2fwsRdxD83k=
+
+Name: assets/Game/453.1so
+SHA1-Digest: A3wjp4Abn0xXcaW/H6GSOcg2l7o=
+
+Name: assets/Game/454.1so
+SHA1-Digest: gm8tTh3xPC8TolLQGM8xM4kWl+Q=
+
+Name: assets/Game/455.1so
+SHA1-Digest: xwFsL29bIbia9py8CWW5Youo7D8=
+
+Name: assets/Game/456.1so
+SHA1-Digest: oowUJ4LMFzxEGS6AwxIflhP+P5c=
+
+Name: assets/Game/457.1so
+SHA1-Digest: 1vRh6EhM+lDx4YYlPbsOWuqmkEA=
+
+Name: assets/Game/458.1so
+SHA1-Digest: 4G7u5xGcpmGPQ3Wsu6XwNw+iKig=
+
+Name: assets/Game/459.1so
+SHA1-Digest: P19/50CEb7C+BXXxShAhxQOJKEQ=
+
+Name: assets/Game/46.1at
+SHA1-Digest: eIFcFungvYUYHqB7BvO5Iho0Jyk=
+
+Name: assets/Game/46.1so
+SHA1-Digest: wir8YCyvIGLDrqrArrDO3D+gi5g=
+
+Name: assets/Game/46.1sp
+SHA1-Digest: 4s5Cn16sirt5bq//ZHtP5vXYhEw=
+
+Name: assets/Game/460.1so
+SHA1-Digest: /qp/fdSQku79YP6mJ2/eJSgRhLM=
+
+Name: assets/Game/461.1so
+SHA1-Digest: 2/F1HdFCWTmIIPCoKqK/7hJiMGk=
+
+Name: assets/Game/462.1so
+SHA1-Digest: UKT0wks5wL+B8QHh69TkUhndNWQ=
+
+Name: assets/Game/463.1so
+SHA1-Digest: +FqYAKVG6hZlMkRoUWqISMTc1qQ=
+
+Name: assets/Game/464.1so
+SHA1-Digest: TgYKXNTPMjjAxZSHEvPhvAb00Q0=
+
+Name: assets/Game/465.1so
+SHA1-Digest: lQf1JCS4FgNk8cE7SxViUQ51mdU=
+
+Name: assets/Game/466.1so
+SHA1-Digest: 5lHap2CLg+uAovXY2fF6Ewsf6Xs=
+
+Name: assets/Game/467.1so
+SHA1-Digest: w2xhRpOIgKSQ8vYMi6JRB+gpfVM=
+
+Name: assets/Game/468.1so
+SHA1-Digest: YIprIJXr/O3m7/NQI5DJGQq18Hs=
+
+Name: assets/Game/469.1so
+SHA1-Digest: ZNX0bstmJ/PUNQxJOA3FxtbaNr0=
+
+Name: assets/Game/47.1at
+SHA1-Digest: akLB0OA4hKuYn8xfdGVZf4+4VMM=
+
+Name: assets/Game/47.1so
+SHA1-Digest: pGGcwGw4QihVYZXG2PpF4geuEHo=
+
+Name: assets/Game/47.1sp
+SHA1-Digest: FVsPK2PlPGa882rt1Bxmt62xAzE=
+
+Name: assets/Game/470.1so
+SHA1-Digest: I3NLsBbHgYU/c4FOVTH3kKW3fXI=
+
+Name: assets/Game/471.1so
+SHA1-Digest: 3BywguDpU3ZvPcoNTULNHA9+XXU=
+
+Name: assets/Game/472.1so
+SHA1-Digest: GHoZKSfDsM3T54uYdbI5nZdbtCk=
+
+Name: assets/Game/473.1so
+SHA1-Digest: 7cHFbUlaLGLHelDvM0Aod1uPIaQ=
+
+Name: assets/Game/474.1so
+SHA1-Digest: zf4vbpg0BzdkgnHE7BwIx8lW0XI=
+
+Name: assets/Game/475.1so
+SHA1-Digest: t6v140luVCJflXaNbXDpgZhqkZI=
+
+Name: assets/Game/476.1so
+SHA1-Digest: 3lkONltL8qlhwMkMitVvdThx6SY=
+
+Name: assets/Game/477.1so
+SHA1-Digest: kUANjDPT9PXTdlpCRkAZ2v5/NjY=
+
+Name: assets/Game/478.1so
+SHA1-Digest: GwKI/uTDu0AK8JyMu2wjPFqmPKk=
+
+Name: assets/Game/479.1so
+SHA1-Digest: ieTZ/7xU6lqiRM07l/tqKmYK9C4=
+
+Name: assets/Game/48.1at
+SHA1-Digest: GhIrpeHyWdRxB2+1qs1KRoP0TVw=
+
+Name: assets/Game/48.1so
+SHA1-Digest: Hjjb2PMGPJkJIIs6l9vWNO2bL8E=
+
+Name: assets/Game/48.1sp
+SHA1-Digest: N0+yIw2+fwHSqg/PThgdfnVL1PI=
+
+Name: assets/Game/480.1so
+SHA1-Digest: MyzM4hWG86JMZoJrBabLojjfetg=
+
+Name: assets/Game/481.1so
+SHA1-Digest: B0+CPMi4xyW5EIJMUezIazD0pXk=
+
+Name: assets/Game/482.1so
+SHA1-Digest: 2YG9oYCkBNn2B6DL+xNEP90bIFw=
+
+Name: assets/Game/483.1so
+SHA1-Digest: 70NSopUgcxbG2S02vrqDgKXV/oc=
+
+Name: assets/Game/484.1so
+SHA1-Digest: jVbTfmMAzYt1uZZf8YeR9f6JlFw=
+
+Name: assets/Game/485.1so
+SHA1-Digest: d6dbR/0LRjPY/qLd/mAnMO6bmMc=
+
+Name: assets/Game/486.1so
+SHA1-Digest: WvRVazN9wTfKz+yCW+ganujEX34=
+
+Name: assets/Game/487.1so
+SHA1-Digest: Z6PZPHC/nkZbFt1eQrfYPlM6wUg=
+
+Name: assets/Game/488.1so
+SHA1-Digest: dljlsA5w4A0Hg57eNgKJKQ7ztgI=
+
+Name: assets/Game/489.1so
+SHA1-Digest: 2RrvmWr9cq6rmHPM3e4+m5O8GIo=
+
+Name: assets/Game/49.1at
+SHA1-Digest: sNZ9Bix3wqTXsYJvCGQ4IeSrJeE=
+
+Name: assets/Game/49.1so
+SHA1-Digest: pfyrWZhLaDEImVCe7Ntu86BFuOQ=
+
+Name: assets/Game/49.1sp
+SHA1-Digest: 6ZtRgnEE+2iOc2bC4PpLRprrSp8=
+
+Name: assets/Game/490.1so
+SHA1-Digest: /YoTMtzoEGplbG3B6Ioi4Kg8ROw=
+
+Name: assets/Game/491.1so
+SHA1-Digest: AafoTnPVOMKUBSiXO5h5Npvn+9w=
+
+Name: assets/Game/492.1so
+SHA1-Digest: 6AXDZ8CAvn4993N1Tj0x14AD508=
+
+Name: assets/Game/493.1so
+SHA1-Digest: kMxjsxFD/f0vUmDMyb8KBotlKFs=
+
+Name: assets/Game/494.1so
+SHA1-Digest: 5hhc/kcr8qTO1NW3M5iZzr3UiSo=
+
+Name: assets/Game/495.1so
+SHA1-Digest: N9WcYN2UhURtNaXaAWvh8VuQbQQ=
+
+Name: assets/Game/496.1so
+SHA1-Digest: Rxl/mjlBjHUN0b1cxxQqdNlMqOI=
+
+Name: assets/Game/497.1so
+SHA1-Digest: Qi5AijGfzqxqKpDxOYT1yXrY+ck=
+
+Name: assets/Game/498.1so
+SHA1-Digest: CKipTBc70/bVttXihIb0jIc29ng=
+
+Name: assets/Game/499.1so
+SHA1-Digest: xMhseUWfvRPLu/cQkZntVCLSlrg=
+
+Name: assets/Game/5.1at
+SHA1-Digest: NCzmcoIh0js22ZY/dvsAQ1L9rfY=
+
+Name: assets/Game/5.1it
+SHA1-Digest: GIg8VVwvjlwM4wXL8T8n5NK9BV4=
+
+Name: assets/Game/5.1so
+SHA1-Digest: TRj5Tam8jgJGSQWZHbhRHDF0CUA=
+
+Name: assets/Game/5.1sp
+SHA1-Digest: +CG7qxi+i5sfLZL6tE6JQmV2lUI=
+
+Name: assets/Game/5.1ts
+SHA1-Digest: +mXacK+YwDVt6lxYT5Yh1yCTnh4=
+
+Name: assets/Game/50.1at
+SHA1-Digest: 0EoqbnJ5Y9y6RMFHrSVA/vDM/Ms=
+
+Name: assets/Game/50.1so
+SHA1-Digest: jCZLa4o8qqaGrRAYPLnJAKjWGZ0=
+
+Name: assets/Game/50.1sp
+SHA1-Digest: VJ8hi1P6znEdciEyqh7Wk7lz2Zo=
+
+Name: assets/Game/500.1so
+SHA1-Digest: Q96So0P1U0z53FNvyk37ZSLrD7I=
+
+Name: assets/Game/501.1so
+SHA1-Digest: 3BXhbZyJK/q/PoWS5EaEMufxiNs=
+
+Name: assets/Game/502.1so
+SHA1-Digest: 7xVmH6ZsPj+4ihmd8yDDi8D7TYg=
+
+Name: assets/Game/503.1so
+SHA1-Digest: bMEGrJb9NOIy+1bnl7TT+74VRpg=
+
+Name: assets/Game/504.1so
+SHA1-Digest: agn5CI7TzuOikV5RYlKb2AtavMk=
+
+Name: assets/Game/505.1so
+SHA1-Digest: VhvWMwVObtDiOYUtwh+JKZMOMbw=
+
+Name: assets/Game/506.1so
+SHA1-Digest: XIBPW/yErnC0dY0m7/PPAlIT1LI=
+
+Name: assets/Game/507.1so
+SHA1-Digest: N/Ys2VBKDc8sOZ1HxaYrfCURTSk=
+
+Name: assets/Game/508.1so
+SHA1-Digest: ppma0oBY8iB2wKXoVGq3jToQezw=
+
+Name: assets/Game/509.1so
+SHA1-Digest: cQNR42N4faKV1y8GRpBDMtp2dhg=
+
+Name: assets/Game/51.1at
+SHA1-Digest: HevUm3Q59CoEDnutcvLGqM9fGkE=
+
+Name: assets/Game/51.1so
+SHA1-Digest: YS2IoOyh5xXuIo3IKqyqfUHiFlA=
+
+Name: assets/Game/51.1sp
+SHA1-Digest: PVrDGk7um+wk7QiTDi/F7wvngdw=
+
+Name: assets/Game/510.1so
+SHA1-Digest: f2+3iE0WRO97s98cqCZ1JWvKJQY=
+
+Name: assets/Game/511.1so
+SHA1-Digest: hX2XvJHEtTYpPmwpl5ttU6s9gp4=
+
+Name: assets/Game/512.1so
+SHA1-Digest: UBMv8VtQVn1bBOKcg99KC39nh1Y=
+
+Name: assets/Game/513.1so
+SHA1-Digest: DICE1gO5vsPSTuVZbQkF53DGvKo=
+
+Name: assets/Game/514.1so
+SHA1-Digest: KIw/keU+R5Enk3gbI5Qx+JM0zOY=
+
+Name: assets/Game/515.1so
+SHA1-Digest: qAWtEes2mB/5Zt38gVzWxbUQpO0=
+
+Name: assets/Game/516.1so
+SHA1-Digest: BZkh3oTz47Qn/BInH7JD3GKd2jo=
+
+Name: assets/Game/517.1so
+SHA1-Digest: lo6N8ir7MRYRRz6S1CfsCg9Dghw=
+
+Name: assets/Game/518.1so
+SHA1-Digest: 1WDn+tpBw4YaqiBNIQvWu+Qxfvg=
+
+Name: assets/Game/519.1so
+SHA1-Digest: 9RsMVLsmdQssPWI2Wl+9MjEQs5M=
+
+Name: assets/Game/52.1at
+SHA1-Digest: vRACDwhAwkYeSeGkI9X5UUGSaVA=
+
+Name: assets/Game/52.1so
+SHA1-Digest: WZR6c2HSkbrNftbPeXTuJedaT7w=
+
+Name: assets/Game/52.1sp
+SHA1-Digest: eDHrvkhw/pBXOoifYm7WKMDh77s=
+
+Name: assets/Game/520.1so
+SHA1-Digest: fwQ/n8XTd/XuicdyNlh5JhvY0q8=
+
+Name: assets/Game/521.1so
+SHA1-Digest: +8/vhIcU/55PrVkynJx1QMOj8fM=
+
+Name: assets/Game/522.1so
+SHA1-Digest: LXpBaXHHvQnig0JDyDgtYwzyKoA=
+
+Name: assets/Game/523.1so
+SHA1-Digest: nKChgfAQPn/t3/Al7+m3WfqeLE4=
+
+Name: assets/Game/524.1so
+SHA1-Digest: 01zcnxX93HuTwSlp3DhKrIqiRCY=
+
+Name: assets/Game/525.1so
+SHA1-Digest: KoaurTS5l17uId4hc3rTRbyEFjo=
+
+Name: assets/Game/526.1so
+SHA1-Digest: WlchtDHUcMslIIUvp8ldeiyV8vk=
+
+Name: assets/Game/527.1so
+SHA1-Digest: Sqg5oha08k3/kFIHD18fXoDvN5Q=
+
+Name: assets/Game/528.1so
+SHA1-Digest: FxnhwmHwE9sknQMEEVDlHe3b/78=
+
+Name: assets/Game/529.1so
+SHA1-Digest: VRH9xT7OJtd713drWjR+XVBfQ18=
+
+Name: assets/Game/53.1at
+SHA1-Digest: uXIejES4h0J6a1+Vui2ZbISiqa0=
+
+Name: assets/Game/53.1so
+SHA1-Digest: MenQ7q2IS7RdLbH+vmgBDgTxdFY=
+
+Name: assets/Game/53.1sp
+SHA1-Digest: ApffOkQfUlto6+GSZizwRvT05no=
+
+Name: assets/Game/530.1so
+SHA1-Digest: hNIUrdCKbuM7g84TIRPIgXCUevQ=
+
+Name: assets/Game/531.1so
+SHA1-Digest: qxrQP2dPZFgk/Uf746fmuZQ2dMs=
+
+Name: assets/Game/532.1so
+SHA1-Digest: tV489FMOPSqte81EcLWt/tQnEuo=
+
+Name: assets/Game/533.1so
+SHA1-Digest: KEoEk0SM1+pW8I96zbDBbtSe1Kc=
+
+Name: assets/Game/534.1so
+SHA1-Digest: PfzOanv2b4eG4fj6mT++BwR8HVI=
+
+Name: assets/Game/535.1so
+SHA1-Digest: T6SPldCMCG0B69H8qGDolxD16FM=
+
+Name: assets/Game/536.1so
+SHA1-Digest: Qp2UBd5fUnI6cxI3EzPcift+pz8=
+
+Name: assets/Game/537.1so
+SHA1-Digest: SffGABQG7CmDNgRHaqBtipyu/pk=
+
+Name: assets/Game/538.1so
+SHA1-Digest: lNCt41PjhRtgrx/G/nR4I08TZJk=
+
+Name: assets/Game/539.1so
+SHA1-Digest: 72R5mfB6x2xUifKFyVuE/j0cVu4=
+
+Name: assets/Game/54.1at
+SHA1-Digest: fcHhTOiCLsLE0qC3L0WtO/VZuE8=
+
+Name: assets/Game/54.1so
+SHA1-Digest: m5NN+J+BqxF+3hFqDRRBlQm6TtY=
+
+Name: assets/Game/54.1sp
+SHA1-Digest: 0zk32wnughYAfs73cv6cGR4o/hY=
+
+Name: assets/Game/540.1so
+SHA1-Digest: MzNa0HrhPtzxBHHyAgbbcYEO53w=
+
+Name: assets/Game/541.1so
+SHA1-Digest: eVCHd6KPaNzXFA/CbrtTYVnmgDw=
+
+Name: assets/Game/542.1so
+SHA1-Digest: tZYxZtSIaBQUyVo1VusOT1HdZeE=
+
+Name: assets/Game/543.1so
+SHA1-Digest: XAMj8mOA51SRTmpVQXOFDHeLC4w=
+
+Name: assets/Game/544.1so
+SHA1-Digest: 0gQ6H0BvwNUUlDrj0TdpSB6vqV4=
+
+Name: assets/Game/545.1so
+SHA1-Digest: dFl/kx+WlrJ6TT5bLykgw9CCw+A=
+
+Name: assets/Game/546.1so
+SHA1-Digest: AetCw6dR/YEYVGpXLsM6L1sAEn4=
+
+Name: assets/Game/547.1so
+SHA1-Digest: 6ClIPz3+nAMoefDmIDR0lN/5sS4=
+
+Name: assets/Game/548.1so
+SHA1-Digest: eU9F7+1Jr7UyjJFfqutKYpyBasw=
+
+Name: assets/Game/549.1so
+SHA1-Digest: vrYTSAvrxJkKb0RRLy5W1WJHe1I=
+
+Name: assets/Game/55.1at
+SHA1-Digest: ziNE1pVYvLXCmq6sU3VFSohOzHc=
+
+Name: assets/Game/55.1so
+SHA1-Digest: BWeNQseCOOaU7BpxJEIk8alweZo=
+
+Name: assets/Game/55.1sp
+SHA1-Digest: bjOicuTPSXX30Li9CZr4I49JM/I=
+
+Name: assets/Game/550.1so
+SHA1-Digest: OkpUw7iIM8oUFmq8wLwQmyjUOqc=
+
+Name: assets/Game/551.1so
+SHA1-Digest: rlDD2DrE+tN226Np7R3b4tH3fp4=
+
+Name: assets/Game/552.1so
+SHA1-Digest: 4e2llgYhYPNEvNpLSSMpirOreIg=
+
+Name: assets/Game/553.1so
+SHA1-Digest: Y07Bqd5xh1dpI47yDIu+z2Uvg3c=
+
+Name: assets/Game/554.1so
+SHA1-Digest: Fs9ObTU3JP1yVdDsg0zQst+g0RY=
+
+Name: assets/Game/555.1so
+SHA1-Digest: Gpg1vvQtjvCuvPcLOAVvaMrstMQ=
+
+Name: assets/Game/556.1so
+SHA1-Digest: m4TLl2QOdhJd8FpdP9SF2yLpjgM=
+
+Name: assets/Game/557.1so
+SHA1-Digest: fw2NH6i6PCAVV152KWdIAXqG9Jk=
+
+Name: assets/Game/558.1so
+SHA1-Digest: HcRNHq8jC23cmmRFZyXBoqO/2m0=
+
+Name: assets/Game/559.1so
+SHA1-Digest: HVrZFuyQLGJGuynbcUsBXJZqYkg=
+
+Name: assets/Game/56.1at
+SHA1-Digest: CvDNMe5ZGZSy6sMssV6dIlldx1U=
+
+Name: assets/Game/56.1so
+SHA1-Digest: P6N5KoC790KDxcxk/j9VXHnsDcs=
+
+Name: assets/Game/56.1sp
+SHA1-Digest: 8qQyjsT8KdjpIJT+P6ig39NcFrA=
+
+Name: assets/Game/560.1so
+SHA1-Digest: sc0dDa/M8fOg40+ECnqpyfqb45c=
+
+Name: assets/Game/561.1so
+SHA1-Digest: O5xKYBEl2HooBnQmqg8TYeFAChU=
+
+Name: assets/Game/562.1so
+SHA1-Digest: OuU4QdLsUmFqJqEviSnblL5ZYqo=
+
+Name: assets/Game/563.1so
+SHA1-Digest: g0OxMfPNLnDqEiTAA6m+9kAPgYY=
+
+Name: assets/Game/564.1so
+SHA1-Digest: 8ljyCV90geoaT7kfI4DlcyFBJ6g=
+
+Name: assets/Game/565.1so
+SHA1-Digest: C4x7K9VZoAeDMWWSLyXTIpWoGuo=
+
+Name: assets/Game/566.1so
+SHA1-Digest: ngreoqasGvgO1FEfc+GXYeZ6JRc=
+
+Name: assets/Game/567.1so
+SHA1-Digest: ZYx78N6D+tmZiPE0RNfSv5Y/CMo=
+
+Name: assets/Game/568.1so
+SHA1-Digest: N4nTE6IYN05rpqq4nZCgB9qOzxk=
+
+Name: assets/Game/569.1so
+SHA1-Digest: DivXP2Xj74+JOlg+uWCNWzyA3RI=
+
+Name: assets/Game/57.1at
+SHA1-Digest: zMi/3T7YuVo2AT97CNYZZlkeMk0=
+
+Name: assets/Game/57.1so
+SHA1-Digest: s3eEkwQxWdo+IE50N/+zMm50AjY=
+
+Name: assets/Game/57.1sp
+SHA1-Digest: T0ETY2ZjmLbffYuHt0i97fGHZW8=
+
+Name: assets/Game/570.1so
+SHA1-Digest: p2JiwUt7LXqbRwYoN4XN5hTMo5Y=
+
+Name: assets/Game/571.1so
+SHA1-Digest: Na6bfeh8YUSOtpvoSdrf9dUpZp0=
+
+Name: assets/Game/58.1at
+SHA1-Digest: VCp0l0VjhcO+NoOVuseqhGyBzoE=
+
+Name: assets/Game/58.1so
+SHA1-Digest: ACzliI1CBwoE8HucwcGd05SqZZo=
+
+Name: assets/Game/58.1sp
+SHA1-Digest: qpRyzXJBhifyjGtiCaBIPbHC8EM=
+
+Name: assets/Game/59.1at
+SHA1-Digest: v+HGfCzlR01skW4NJJxE+FHGLt4=
+
+Name: assets/Game/59.1so
+SHA1-Digest: KCQX1XaCu3CfzBb+c0GBaHVVkFc=
+
+Name: assets/Game/59.1sp
+SHA1-Digest: Kigf4ek2e9CJJ0mwHO5IcdcUe+4=
+
+Name: assets/Game/6.1at
+SHA1-Digest: mxcHg7KCX0oho9Gs2Yx8N4E7RxU=
+
+Name: assets/Game/6.1it
+SHA1-Digest: wAl+CuG5r4hLczSBpzbJ+yS1rhU=
+
+Name: assets/Game/6.1so
+SHA1-Digest: Ed57PyF8uypIIbKd07smDsB7w34=
+
+Name: assets/Game/6.1sp
+SHA1-Digest: OzwpU8/OXtiCLexv9Ryz9EUhBnQ=
+
+Name: assets/Game/6.1ts
+SHA1-Digest: Ihax9eXl5tkupyJqlnihD0LJR7Q=
+
+Name: assets/Game/60.1at
+SHA1-Digest: l1PpzTtEfCI88vPh369pSoKItcg=
+
+Name: assets/Game/60.1so
+SHA1-Digest: tpU1WsBJO5sqUvmt0/p2OGAv9m4=
+
+Name: assets/Game/60.1sp
+SHA1-Digest: xXZe0S+xmD/KwEBwaRmtnOJOugk=
+
+Name: assets/Game/61.1at
+SHA1-Digest: yidbQvqlO+QAtYHwgFGEC55edaE=
+
+Name: assets/Game/61.1so
+SHA1-Digest: 3kQAu5zKjw7lAZod07cEroNuiQQ=
+
+Name: assets/Game/61.1sp
+SHA1-Digest: bmMu69ZMEe9gg6DIySbKAf/nIh4=
+
+Name: assets/Game/62.1at
+SHA1-Digest: wSBOOFFaAzB7NogfbM87MfsT+PM=
+
+Name: assets/Game/62.1so
+SHA1-Digest: HDjNrHG6lBM9gfrv2ybXrM4zk1w=
+
+Name: assets/Game/62.1sp
+SHA1-Digest: 3Ip2qQQoVcVOtW4iZamdgY7D+lE=
+
+Name: assets/Game/63.1at
+SHA1-Digest: rTiWrQndFn6bnMpHWGmHXWq2j94=
+
+Name: assets/Game/63.1so
+SHA1-Digest: BQxd1OfYG6eupLGYZWx0RTe2k2Y=
+
+Name: assets/Game/63.1sp
+SHA1-Digest: ksYNzQ9RWKs6Cdqk+4/PjO5ccHw=
+
+Name: assets/Game/64.1at
+SHA1-Digest: 3Gd4drVtFH7nxcscewM+tFv00eo=
+
+Name: assets/Game/64.1so
+SHA1-Digest: nYzVCzfoM3sy0ffnF941DozxObE=
+
+Name: assets/Game/64.1sp
+SHA1-Digest: X5NEghOkh1zjTmK7GPfXmdh4IXA=
+
+Name: assets/Game/65.1so
+SHA1-Digest: xI01rgvrLBuq0kfVfe7/qeaTreE=
+
+Name: assets/Game/65.1sp
+SHA1-Digest: n82GiUEC+u9jjrQxj5RB5jyWUdc=
+
+Name: assets/Game/66.1so
+SHA1-Digest: 3N1H6+5L5VVk6KLX73JFvESYcFk=
+
+Name: assets/Game/66.1sp
+SHA1-Digest: Je5DfzQFPhbUsfWS+tRy7eJ9cBg=
+
+Name: assets/Game/67.1so
+SHA1-Digest: YcurnXCSbUyXpcNipHSBDUzRvBY=
+
+Name: assets/Game/67.1sp
+SHA1-Digest: 2hvbV8mQ2ccHvKD9m7C7iyr1KTU=
+
+Name: assets/Game/68.1so
+SHA1-Digest: sCgw8y4jjZvZ3vFiDi4qv2HukHU=
+
+Name: assets/Game/68.1sp
+SHA1-Digest: G1pjIiWjDS627GPZVrvZ1U/ZwpY=
+
+Name: assets/Game/69.1so
+SHA1-Digest: WNree07fth48FN+gTwLlSREUuF4=
+
+Name: assets/Game/69.1sp
+SHA1-Digest: C6KpGb6wF8S95DQz93YJjgD4Udg=
+
+Name: assets/Game/7.1at
+SHA1-Digest: DtTpN200UbminbF7GTHzbQEka/M=
+
+Name: assets/Game/7.1it
+SHA1-Digest: c42eVDY571Dxsd2CW65cdQZTq24=
+
+Name: assets/Game/7.1so
+SHA1-Digest: QFzEuHXaGOPVZMP9D+OaQUv2RMA=
+
+Name: assets/Game/7.1sp
+SHA1-Digest: JbpWE9JdQnoRKEhki2hh9B+/K7o=
+
+Name: assets/Game/7.1ts
+SHA1-Digest: G/KKzh75Bm1X5ou2nzFwGrL59PA=
+
+Name: assets/Game/70.1so
+SHA1-Digest: PnzCw4gMfJrFuXHI/PjscujSsgA=
+
+Name: assets/Game/70.1sp
+SHA1-Digest: 7cX2syGOIK96MXWWVTm7LYrFKqg=
+
+Name: assets/Game/71.1so
+SHA1-Digest: 9kT8eO3oF6ZZcAWZBG8FmYt2iiY=
+
+Name: assets/Game/71.1sp
+SHA1-Digest: 4uMIKs8z5U4ENJA4vatAEgSXrqI=
+
+Name: assets/Game/72.1so
+SHA1-Digest: OwEC9epNL93K9ElT1cwMFkl/dk8=
+
+Name: assets/Game/72.1sp
+SHA1-Digest: mvVY/Ky3GfP46qE2c367vd/o9iY=
+
+Name: assets/Game/73.1so
+SHA1-Digest: n5qSgJrpA1+4q4huL/9RSvqrsZ0=
+
+Name: assets/Game/73.1sp
+SHA1-Digest: udscH9ve3b8c5n0YOWsH+sOjZkU=
+
+Name: assets/Game/74.1so
+SHA1-Digest: 6oxb+XJbDQpIi3lr+ZHHbHIustY=
+
+Name: assets/Game/74.1sp
+SHA1-Digest: 29w+YgUY7elmsp24PhH7cHJ7gmU=
+
+Name: assets/Game/75.1so
+SHA1-Digest: BnpTeWbUfQgUeKMvWvddB6kGAZQ=
+
+Name: assets/Game/75.1sp
+SHA1-Digest: Fp/wPPrUC2583/QxCXxJ3fGXz+I=
+
+Name: assets/Game/76.1so
+SHA1-Digest: JTjt98IayeyfBEeRoNtt1MBVBds=
+
+Name: assets/Game/76.1sp
+SHA1-Digest: TMhGKnuOpVjU5nei+trqWTAIOgI=
+
+Name: assets/Game/77.1so
+SHA1-Digest: 12sm9i1Py+laenU/f1GJqc6Q2jc=
+
+Name: assets/Game/77.1sp
+SHA1-Digest: 36k1ne8UPun46a8qHUd2ZAR6ELA=
+
+Name: assets/Game/78.1so
+SHA1-Digest: ydHOq5ITfaQGZJtEZIRyIbgULq4=
+
+Name: assets/Game/78.1sp
+SHA1-Digest: rVXMPTHxa3G+8e0VT1/BNzIEGZo=
+
+Name: assets/Game/79.1so
+SHA1-Digest: JouEg3KZux2zqbd0EjXIZt1kWhg=
+
+Name: assets/Game/79.1sp
+SHA1-Digest: xtr4d9vb0rlBvXwC56ihS7elGfQ=
+
+Name: assets/Game/8.1at
+SHA1-Digest: PUaMLFB8sMiWGWa3MyG3eLY/vZw=
+
+Name: assets/Game/8.1it
+SHA1-Digest: qtapKvn2VamVnv10PepUhvAig1E=
+
+Name: assets/Game/8.1so
+SHA1-Digest: TOybWRhpNJyRHbNoetg7532gGpU=
+
+Name: assets/Game/8.1sp
+SHA1-Digest: ASJuL7k77mHV/9oj+dzm0gTXtt4=
+
+Name: assets/Game/8.1ts
+SHA1-Digest: h3rfBdt7MITtZosYagJBQyxa5GQ=
+
+Name: assets/Game/80.1so
+SHA1-Digest: 4PiUDgRsM1IdxY4cXFk9L/dIVsE=
+
+Name: assets/Game/80.1sp
+SHA1-Digest: 5/DG/pTcEZcUzRBxvIivixXPYc4=
+
+Name: assets/Game/81.1so
+SHA1-Digest: EPSM+RF4dHZNArLDM9hV1gHY0zA=
+
+Name: assets/Game/81.1sp
+SHA1-Digest: Rob8DR+PQYRChY8QPhTV7V81dr0=
+
+Name: assets/Game/82.1so
+SHA1-Digest: x01WIhcdo9KvsD/lhzkh9Y1ri74=
+
+Name: assets/Game/82.1sp
+SHA1-Digest: iBruy3/57fZpksGTTIccnQ9sZb4=
+
+Name: assets/Game/83.1so
+SHA1-Digest: ky5lGaudyhzqzk7AQZ0gtGP76Fo=
+
+Name: assets/Game/83.1sp
+SHA1-Digest: 9BH3eobcy2v4pkha0Qq97cW28ac=
+
+Name: assets/Game/84.1so
+SHA1-Digest: 6cZP2Us28WLBNC7sXAxeSJu5EmE=
+
+Name: assets/Game/84.1sp
+SHA1-Digest: yQ1GQtkc2Ubg6Q9b+etYpvcK4DE=
+
+Name: assets/Game/85.1so
+SHA1-Digest: qUsxRNC5gi5cd+zmXl986sAj5pI=
+
+Name: assets/Game/85.1sp
+SHA1-Digest: 7y2YW33eJ21EiYwk49A/gsS5WS4=
+
+Name: assets/Game/86.1so
+SHA1-Digest: Ba18GiGUN1m/3MsUFmoHlqtLWEQ=
+
+Name: assets/Game/86.1sp
+SHA1-Digest: RdgbHGsJclSpOW0Wt9iX0Ttfw28=
+
+Name: assets/Game/87.1so
+SHA1-Digest: BtLcZNr4GLDipb9Bslk1nQ4/+ds=
+
+Name: assets/Game/87.1sp
+SHA1-Digest: cX932G+c8om4NW3i1gd9DbjT4Fk=
+
+Name: assets/Game/88.1so
+SHA1-Digest: n31fRU2VwkOyBlZRidXSAmcTdPE=
+
+Name: assets/Game/88.1sp
+SHA1-Digest: CiGXHNwG0cWJr4yRF99qv9Z92ms=
+
+Name: assets/Game/89.1so
+SHA1-Digest: L01c8hEksDcvODjuoGZ8gY6FGyA=
+
+Name: assets/Game/89.1sp
+SHA1-Digest: xirj8tw1K1eeO5R2U56dipHZBMI=
+
+Name: assets/Game/9.1at
+SHA1-Digest: GEGXjixQgaAc5c0y6qHF9q6SKCs=
+
+Name: assets/Game/9.1so
+SHA1-Digest: GEnwvr51mKymuUnfYdmDn4hhScs=
+
+Name: assets/Game/9.1sp
+SHA1-Digest: SSafYdlxsH55edWJTUzgaSRQTFY=
+
+Name: assets/Game/9.1ts
+SHA1-Digest: p2UsjA431+4ELZi8vhmHDR7L8EM=
+
+Name: assets/Game/90.1so
+SHA1-Digest: 0cCuFPpllBx7NDvKnzsU2hzIk7w=
+
+Name: assets/Game/90.1sp
+SHA1-Digest: ePgtc1AZkmdqHRmA1KFpwH51KMc=
+
+Name: assets/Game/91.1so
+SHA1-Digest: LTttqOIguj+YFZ23WiLHkv1daCw=
+
+Name: assets/Game/91.1sp
+SHA1-Digest: +3SxJcsYDOM5a7loXVmSHhqxNxA=
+
+Name: assets/Game/92.1so
+SHA1-Digest: Y2a6Cq297rlWULErCkWZxopDchA=
+
+Name: assets/Game/92.1sp
+SHA1-Digest: 6wnAl3MGXNFJ6I6Z0N+PeragOeA=
+
+Name: assets/Game/93.1so
+SHA1-Digest: L1HrreuD3jMVAPHhKj1OflraiE4=
+
+Name: assets/Game/93.1sp
+SHA1-Digest: PyqFpcME4NO8pWwt6FpJYFHmKro=
+
+Name: assets/Game/94.1so
+SHA1-Digest: Wrxya+kOVc9VSlOd2xz9ZIbBICc=
+
+Name: assets/Game/94.1sp
+SHA1-Digest: vbPnjcdzRQFt9MdgTZxFbSJy/pQ=
+
+Name: assets/Game/95.1so
+SHA1-Digest: X0EUu2/hbz20+od3Ja7ICWh8kqI=
+
+Name: assets/Game/95.1sp
+SHA1-Digest: zg/EjN856EqWoSgXW8SQp9bEn8c=
+
+Name: assets/Game/96.1so
+SHA1-Digest: B6xebuXHvOdT3epvKKyNrfLafis=
+
+Name: assets/Game/96.1sp
+SHA1-Digest: PIX9rQ5j1Pk6jW27q4I5uPuzJvE=
+
+Name: assets/Game/97.1so
+SHA1-Digest: goAtK9CcKP7PAUYzS/AB82YJJl4=
+
+Name: assets/Game/97.1sp
+SHA1-Digest: yHlu/EZU+8bVzjCL7l1GhrGtcOE=
+
+Name: assets/Game/98.1so
+SHA1-Digest: AfuKGzP9SoWU1ru4/VAEdQA9ok4=
+
+Name: assets/Game/98.1sp
+SHA1-Digest: LguCEWynpxAggNwZGWMv4+0W1gs=
+
+Name: assets/Game/99.1so
+SHA1-Digest: uaHHnYeKEbRdfKUzloTasxvvFxs=
+
+Name: assets/Game/99.1sp
+SHA1-Digest: Riq0H/qr6wKNFYCnKSlu5Fz79ik=
+
+Name: assets/Game/DATA.INI
+SHA1-Digest: wVEP97CiE/8ElMD+WJ6uFVWrapk=
+
+Name: assets/Game/Equipment Backup.1ui
+SHA1-Digest: kfRnuJPx+7PS8LHtomt/fQ8y2qc=
+
+Name: assets/Game/Full Screen.1ui
+SHA1-Digest: RKkiOMC/9VD4ei9hGCE71/Wx5GM=
+
+Name: assets/Game/Hud.1ui
+SHA1-Digest: OVTDoJoOnjIRzWk1Jv8Y0TMwyc4=
+
+Name: assets/Game/INTRO.1st
+SHA1-Digest: pgmcANmFB9L+O6XG5vHcb8eg2eU=
+
+Name: assets/Game/Inn.1ui
+SHA1-Digest: hVLhkfT4AoWMiLQQd4oMJaJoXPw=
+
+Name: assets/Game/Input Code.1ui
+SHA1-Digest: 2diykmqHm+EAM5c6Bqprk04Z3YE=
+
+Name: assets/Game/Loading Screen.1ui
+SHA1-Digest: mKwEHcPFrnmkRQG6x0Ef8RqBPyQ=
+
+Name: assets/Game/Loading Screen2.1ui
+SHA1-Digest: Vnyc6oCbxJJmwFQJBTFG96FW5Oo=
+
+Name: assets/Game/Message Box.1ui
+SHA1-Digest: VsHPQr3IxM03ni97Lir2FCP8/Es=
+
+Name: assets/Game/Novo Save1.1mp
+SHA1-Digest: 6NS5zQ8ut1dKe39A3R9CmMN2Vcw=
+
+Name: assets/Game/Novo Save2.1mp
+SHA1-Digest: wSFqm0VQ1AyOyDRSfnOiyvbrKWs=
+
+Name: assets/Game/Novo Teste0.1mp
+SHA1-Digest: 88UkUSlhaG11n+2xEvMPW43M5QU=
+
+Name: assets/Game/Novo Teste1.1mp
+SHA1-Digest: 8t+Sol3/RjZyOMpC/71wh24LFro=
+
+Name: assets/Game/Novo Teste2.1mp
+SHA1-Digest: uPgndO+YUVUxx2QLiwTrPfi/Vns=
+
+Name: assets/Game/Novo Teste3.1mp
+SHA1-Digest: TuqpTagJTQiZJXT2LzRd4p0eDSM=
+
+Name: assets/Game/Novo Teste4.1mp
+SHA1-Digest: FNiUuSYYJpZ4Awi0+fmRyXDjb8s=
+
+Name: assets/Game/Novo Teste5.1mp
+SHA1-Digest: AqacmpAwo9c+GRBSvfYu79yAyTE=
+
+Name: assets/Game/Novo Teste6.1mp
+SHA1-Digest: PyzYKi72fvDxEHP/Tf8Z5weYmHg=
+
+Name: assets/Game/Novo Teste7.1mp
+SHA1-Digest: tVqS3KjpHqlLwVdx9sIR2tj82K0=
+
+Name: assets/Game/Party Use Magic.1ui
+SHA1-Digest: vvzIyhWI24vZlQ+XLJLPSIC90e8=
+
+Name: assets/Game/SETTINGS.INI
+SHA1-Digest: ZgBaGPDILcCzHnuwlboOceTWPQU=
+
+Name: assets/Game/Save Game Name.1ui
+SHA1-Digest: yqBidnNTpd2Zf7UncGkmSt7t3Bs=
+
+Name: assets/Game/Save Load Game.1ui
+SHA1-Digest: c7t1HxbG+cXDkPdvtjpyvnPOMhU=
+
+Name: assets/Game/Save1.1mp
+SHA1-Digest: atyesp1saowXRxUbUJxo51iSn6g=
+
+Name: assets/Game/Shop Intro.1ui
+SHA1-Digest: NXoDrLoR1PynuNJSjc3hHzz4hig=
+
+Name: assets/Game/Shop Items.1ui
+SHA1-Digest: k7RNOBtDZ7xeiiq63hk/Enoi36k=
+
+Name: assets/Game/Shop Trade.1ui
+SHA1-Digest: YLUpY6mirxEln/VTwSoHMlICvjI=
+
+Name: assets/Game/Soma Equipment Itens.1ui
+SHA1-Digest: +a7wdc4UcDPDCjyiBEFdu4F7cUQ=
+
+Name: assets/Game/Soma Equipment Souls.1ui
+SHA1-Digest: YJVmvWp5qtBYf2Gf0nYlRWVyEyk=
+
+Name: assets/Game/Soma Equipment.1ui
+SHA1-Digest: 4A9wseGLrgD/PrJ0LzjheSnmxuE=
+
+Name: assets/Game/Soma Soul Set.1ui
+SHA1-Digest: 7tOl9l5he9V/W4kxmOD999g+/Mk=
+
+Name: assets/Game/Soma Start Menu.1ui
+SHA1-Digest: XbKE+2Ld0Q3qokWdy8x3rxqG3AM=
+
+Name: assets/Game/Soma Use Itens.1ui
+SHA1-Digest: E4YwKlbg8h52BlfNlEt+GERGuvQ=
+
+Name: assets/Game/Teste.1mp
+SHA1-Digest: mSm3Mnrt7tC8rGTv193lZBB23h8=
+
+Name: assets/Game/Teste22.1mp
+SHA1-Digest: ElItI08TsxEb/HbOxf0NwQOelOk=
+
+Name: assets/Game/Teste3.1mp
+SHA1-Digest: ddxHLGUC2CfKSQoGDPs21EMyXKU=
+
+Name: assets/Game/Teste4.1mp
+SHA1-Digest: OMcsCsTSTRKXhO2RhsPeq2RjFCE=
+
+Name: assets/Game/Teste5.1mp
+SHA1-Digest: joMyJ8mLD4Utuyf0CEDyKMyO6s4=
+
+Name: assets/Game/Teste6.1mp
+SHA1-Digest: TU7nyE10Zl9Pm2rzZDHALxic8wA=
+
+Name: assets/Game/Teste7.1mp
+SHA1-Digest: QOcjo19m6GbsrMMSMEKKd+jZdNQ=
+
+Name: assets/Game/Vida.1ui
+SHA1-Digest: DTx4oK9Xcm8w4x1WpGshfSbsCZg=
+
+Name: assets/Game/breaks.dat
+SHA1-Digest: dLD/WGRbYe/VT1avP/V9cXG4FW0=
+
+Name: billing.properties
+SHA1-Digest: Vrm1vIwUgOlwwKKWkTRI0/PHVtQ=
+
+Name: classes.dex
+SHA1-Digest: XDPj0ORQ8YgvqK0nrO/89E7J1P0=
+
+Name: firebase-encoders-json.properties
+SHA1-Digest: mW3wqgnQaaap/vsAaQd4i9Iqeso=
+
+Name: firebase-encoders-proto.properties
+SHA1-Digest: 5sMycb7VmONfgx8PEsoKHmUOy9w=
+
+Name: firebase-encoders.properties
+SHA1-Digest: sky6iNHkBkY01io4PqfMNLR4l6s=
+
+Name: lib/arm64-v8a/libEngine001.so
+SHA1-Digest: cLcivAQtb/NtG3RjuS+D17CKCTA=
+
+Name: lib/arm64-v8a/libLaunch001.so
+SHA1-Digest: z54IyvCPszTitWwP/nyqJU2kLlo=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: cVYgB9tvky8cMyD0NX0pYhj8mrY=
+
+Name: lib/arm64-v8a/libopenal.so
+SHA1-Digest: qTxNL6TRaQJwk7mlkByE+f89uVg=
+
+Name: lib/armeabi-v7a/libEngine001.so
+SHA1-Digest: kllgvI4vw59AVVZ/Cu245U945Ss=
+
+Name: lib/armeabi-v7a/libLaunch001.so
+SHA1-Digest: hdlGYq0Q5WZCYzLpgb/r4zxcPRg=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA1-Digest: sa49f/N8F0mQU+QG4xSSCRnh6j8=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: xsck//n8BO9nl7Fx8p7hD/xO7Gs=
+
+Name: res/drawable/icon.png
+SHA1-Digest: ViObNuhj3/qxxk9FHfYAfXQQOaM=
+
+Name: res/xml/network_security_config.xml
+SHA1-Digest: dRslJbMnCIbSesr+wl3THt4W47g=
+
+Name: resources.arsc
+SHA1-Digest: d+Go9scxQxh8e6tjzcJug6boJNA=
+
+Name: transport-api.properties
+SHA1-Digest: ix5ULUaUIINddTrXGghc/jPG7Rk=
+
+Name: transport-backend-cct.properties
+SHA1-Digest: xjzNY7ZAdNG6dnz9fHQOmgpnOvM=
+
+Name: transport-runtime.properties
+SHA1-Digest: BzV80W4Gs/pkPAHBooGPQ303NFE=
+
